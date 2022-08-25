@@ -1,6 +1,6 @@
 #!/bin/bash
 #err exit
-#set -e -v 
+set -e 
 
 ROOTFS_DIR=$1
 #SOUR_PATH=$(readlink $0)
@@ -9,7 +9,7 @@ echo "1.file copy"
 #1.qemu-aarch64-static
 sudo cp -f /usr/bin/qemu-aarch64-static $ROOTFS_DIR/usr/bin/
 #2.Network DNS
-sudo cp -f resolv.conf $ROOTFS_DIR/etc/
+#sudo cp -f config/resolv.conf $ROOTFS_DIR/etc/
 #3.apt-get sources.list
 #sudo cp -f ${SOUR_PATH%/*}/sources.list $ROOTFS_DIR/etc/apt/
 #4.mount share dir
