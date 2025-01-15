@@ -1,0 +1,2552 @@
+2022-08-29 16:05:39 startup archives install
+2022-08-29 16:05:39 install base-passwd:arm64 <none> 3.5.47
+2022-08-29 16:05:39 status half-installed base-passwd:arm64 3.5.47
+2022-08-29 16:05:39 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:05:39 configure base-passwd:arm64 3.5.47 3.5.47
+2022-08-29 16:05:39 status half-configured base-passwd:arm64 3.5.47
+2022-08-29 16:05:39 status installed base-passwd:arm64 3.5.47
+2022-08-29 16:05:39 startup archives install
+2022-08-29 16:05:39 install base-files:arm64 <none> 11ubuntu5
+2022-08-29 16:05:39 status half-installed base-files:arm64 11ubuntu5
+2022-08-29 16:05:39 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:05:39 configure base-files:arm64 11ubuntu5 11ubuntu5
+2022-08-29 16:05:39 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:05:40 status installed base-files:arm64 11ubuntu5
+2022-08-29 16:05:40 startup archives install
+2022-08-29 16:05:40 upgrade dpkg 1.19.7ubuntu3 1.19.7ubuntu3
+2022-08-29 16:05:40 status half-configured dpkg 1.19.7ubuntu3
+2022-08-29 16:05:40 status unpacked dpkg 1.19.7ubuntu3
+2022-08-29 16:05:40 status half-installed dpkg 1.19.7ubuntu3
+2022-08-29 16:05:40 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:40 configure dpkg:arm64 1.19.7ubuntu3 1.19.7ubuntu3
+2022-08-29 16:05:40 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:40 status installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:40 startup archives install
+2022-08-29 16:05:40 install libc6:arm64 <none> 2.31-0ubuntu9
+2022-08-29 16:05:40 status half-installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:40 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:40 configure libc6:arm64 2.31-0ubuntu9 2.31-0ubuntu9
+2022-08-29 16:05:40 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:41 status installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:41 startup archives install
+2022-08-29 16:05:41 install perl-base:arm64 <none> 5.30.0-9build1
+2022-08-29 16:05:41 status half-installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:41 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:41 configure perl-base:arm64 5.30.0-9build1 5.30.0-9build1
+2022-08-29 16:05:41 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:41 status installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:41 startup archives install
+2022-08-29 16:05:41 install mawk:arm64 <none> 1.3.4.20200120-2
+2022-08-29 16:05:41 status half-installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:41 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:41 configure mawk:arm64 1.3.4.20200120-2 1.3.4.20200120-2
+2022-08-29 16:05:41 status half-configured mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:41 status installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:41 startup archives unpack
+2022-08-29 16:05:41 upgrade base-files:arm64 11ubuntu5 11ubuntu5
+2022-08-29 16:05:41 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:05:41 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:05:41 status half-installed base-files:arm64 11ubuntu5
+2022-08-29 16:05:41 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:05:41 upgrade base-passwd:arm64 3.5.47 3.5.47
+2022-08-29 16:05:41 status half-configured base-passwd:arm64 3.5.47
+2022-08-29 16:05:41 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:05:41 status half-installed base-passwd:arm64 3.5.47
+2022-08-29 16:05:41 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:05:41 install bash:arm64 <none> 5.0-6ubuntu1
+2022-08-29 16:05:41 status half-installed bash:arm64 5.0-6ubuntu1
+2022-08-29 16:05:41 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:05:41 install bsdutils:arm64 <none> 1:2.34-0.1ubuntu9
+2022-08-29 16:05:41 status half-installed bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:05:41 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:05:42 install coreutils:arm64 <none> 8.30-3ubuntu2
+2022-08-29 16:05:42 status half-installed coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:05:42 status unpacked coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:05:42 install dash:arm64 <none> 0.5.10.2-6
+2022-08-29 16:05:42 status half-installed dash:arm64 0.5.10.2-6
+2022-08-29 16:05:42 status unpacked dash:arm64 0.5.10.2-6
+2022-08-29 16:05:42 install debconf:all <none> 1.5.73
+2022-08-29 16:05:42 status half-installed debconf:all 1.5.73
+2022-08-29 16:05:42 status unpacked debconf:all 1.5.73
+2022-08-29 16:05:42 install debianutils:arm64 <none> 4.9.1
+2022-08-29 16:05:42 status half-installed debianutils:arm64 4.9.1
+2022-08-29 16:05:42 status unpacked debianutils:arm64 4.9.1
+2022-08-29 16:05:42 install diffutils:arm64 <none> 1:3.7-3
+2022-08-29 16:05:42 status half-installed diffutils:arm64 1:3.7-3
+2022-08-29 16:05:42 status unpacked diffutils:arm64 1:3.7-3
+2022-08-29 16:05:42 upgrade dpkg:arm64 1.19.7ubuntu3 1.19.7ubuntu3
+2022-08-29 16:05:42 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:42 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:42 status half-installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:42 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:42 install e2fsprogs:arm64 <none> 1.45.5-2ubuntu1
+2022-08-29 16:05:42 status half-installed e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:42 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:42 install fdisk:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:42 status half-installed fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:42 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:42 install findutils:arm64 <none> 4.7.0-1ubuntu1
+2022-08-29 16:05:42 status half-installed findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:05:42 status unpacked findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:05:42 install gcc-10-base:arm64 <none> 10-20200411-0ubuntu1
+2022-08-29 16:05:42 status half-installed gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:42 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:42 install grep:arm64 <none> 3.4-1
+2022-08-29 16:05:42 status half-installed grep:arm64 3.4-1
+2022-08-29 16:05:42 status unpacked grep:arm64 3.4-1
+2022-08-29 16:05:42 install gzip:arm64 <none> 1.10-0ubuntu4
+2022-08-29 16:05:42 status half-installed gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:05:42 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:05:43 install hostname:arm64 <none> 3.23
+2022-08-29 16:05:43 status half-installed hostname:arm64 3.23
+2022-08-29 16:05:43 status unpacked hostname:arm64 3.23
+2022-08-29 16:05:43 install init-system-helpers:all <none> 1.57
+2022-08-29 16:05:43 status half-installed init-system-helpers:all 1.57
+2022-08-29 16:05:43 status unpacked init-system-helpers:all 1.57
+2022-08-29 16:05:43 install libacl1:arm64 <none> 2.2.53-6
+2022-08-29 16:05:43 status half-installed libacl1:arm64 2.2.53-6
+2022-08-29 16:05:43 status unpacked libacl1:arm64 2.2.53-6
+2022-08-29 16:05:43 install libattr1:arm64 <none> 1:2.4.48-5
+2022-08-29 16:05:43 status half-installed libattr1:arm64 1:2.4.48-5
+2022-08-29 16:05:43 status unpacked libattr1:arm64 1:2.4.48-5
+2022-08-29 16:05:43 install libaudit-common:all <none> 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 status half-installed libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 status unpacked libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 install libaudit1:arm64 <none> 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 status half-installed libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 status unpacked libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:05:43 install libblkid1:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:43 status half-installed libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:43 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:43 install libbz2-1.0:arm64 <none> 1.0.8-2
+2022-08-29 16:05:43 status half-installed libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:05:43 status unpacked libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:05:43 install libc-bin:arm64 <none> 2.31-0ubuntu9
+2022-08-29 16:05:43 status half-installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:43 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:43 upgrade libc6:arm64 2.31-0ubuntu9 2.31-0ubuntu9
+2022-08-29 16:05:43 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:43 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:43 status half-installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:43 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:44 install libcap-ng0:arm64 <none> 0.7.9-2.1build1
+2022-08-29 16:05:44 status half-installed libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:05:44 status unpacked libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:05:44 install libcom-err2:arm64 <none> 1.45.5-2ubuntu1
+2022-08-29 16:05:44 status half-installed libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:44 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:44 install libcrypt1:arm64 <none> 1:4.4.10-10ubuntu4
+2022-08-29 16:05:44 status half-installed libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:05:44 status unpacked libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:05:44 install libdb5.3:arm64 <none> 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:44 status half-installed libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:44 status unpacked libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:44 install libdebconfclient0:arm64 <none> 0.251ubuntu1
+2022-08-29 16:05:44 status half-installed libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:05:44 status unpacked libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:05:44 install libext2fs2:arm64 <none> 1.45.5-2ubuntu1
+2022-08-29 16:05:44 status half-installed libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:44 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:44 install libfdisk1:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:44 status half-installed libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:44 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:44 install libgcc-s1:arm64 <none> 10-20200411-0ubuntu1
+2022-08-29 16:05:44 status half-installed libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:44 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:44 install libgcrypt20:arm64 <none> 1.8.5-5ubuntu1
+2022-08-29 16:05:44 status half-installed libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:05:44 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:05:44 install libgpg-error0:arm64 <none> 1.37-1
+2022-08-29 16:05:44 status half-installed libgpg-error0:arm64 1.37-1
+2022-08-29 16:05:44 status unpacked libgpg-error0:arm64 1.37-1
+2022-08-29 16:05:44 install liblz4-1:arm64 <none> 1.9.2-2
+2022-08-29 16:05:44 status half-installed liblz4-1:arm64 1.9.2-2
+2022-08-29 16:05:44 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:05:44 install liblzma5:arm64 <none> 5.2.4-1
+2022-08-29 16:05:44 status half-installed liblzma5:arm64 5.2.4-1
+2022-08-29 16:05:44 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:05:44 install libmount1:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:44 status half-installed libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:44 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:44 install libncurses6:arm64 <none> 6.2-0ubuntu2
+2022-08-29 16:05:44 status half-installed libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:44 status unpacked libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:44 install libncursesw6:arm64 <none> 6.2-0ubuntu2
+2022-08-29 16:05:44 status half-installed libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:44 status unpacked libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:44 install libpam-modules:arm64 <none> 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status half-installed libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:44 install libpam-modules-bin:arm64 <none> 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status half-installed libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:44 install libpam-runtime:all <none> 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status half-installed libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:05:44 install libpam0g:arm64 <none> 1.3.1-5ubuntu4
+2022-08-29 16:05:44 status half-installed libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:45 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:45 install libpcre2-8-0:arm64 <none> 10.34-7
+2022-08-29 16:05:45 status half-installed libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:05:45 status unpacked libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:05:45 install libpcre3:arm64 <none> 2:8.39-12build1
+2022-08-29 16:05:45 status half-installed libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:05:45 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:05:45 install libprocps8:arm64 <none> 2:3.3.16-1ubuntu2
+2022-08-29 16:05:45 status half-installed libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:45 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:45 install libselinux1:arm64 <none> 3.0-1build2
+2022-08-29 16:05:45 status half-installed libselinux1:arm64 3.0-1build2
+2022-08-29 16:05:45 status unpacked libselinux1:arm64 3.0-1build2
+2022-08-29 16:05:45 install libsemanage-common:all <none> 3.0-1build2
+2022-08-29 16:05:45 status half-installed libsemanage-common:all 3.0-1build2
+2022-08-29 16:05:45 status unpacked libsemanage-common:all 3.0-1build2
+2022-08-29 16:05:45 install libsemanage1:arm64 <none> 3.0-1build2
+2022-08-29 16:05:45 status half-installed libsemanage1:arm64 3.0-1build2
+2022-08-29 16:05:45 status unpacked libsemanage1:arm64 3.0-1build2
+2022-08-29 16:05:45 install libsepol1:arm64 <none> 3.0-1
+2022-08-29 16:05:45 status half-installed libsepol1:arm64 3.0-1
+2022-08-29 16:05:45 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:05:45 install libsmartcols1:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status half-installed libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 install libss2:arm64 <none> 1.45.5-2ubuntu1
+2022-08-29 16:05:45 status half-installed libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:45 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:45 install libsystemd0:arm64 <none> 245.4-4ubuntu3
+2022-08-29 16:05:45 status half-installed libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:05:45 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:05:45 install libtinfo6:arm64 <none> 6.2-0ubuntu2
+2022-08-29 16:05:45 status half-installed libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:45 status unpacked libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:45 install libudev1:arm64 <none> 245.4-4ubuntu3
+2022-08-29 16:05:45 status half-installed libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:05:45 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:05:45 install libuuid1:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status half-installed libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 install libzstd1:arm64 <none> 1.4.4+dfsg-3
+2022-08-29 16:05:45 status half-installed libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:05:45 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:05:45 install login:arm64 <none> 1:4.8.1-1ubuntu5
+2022-08-29 16:05:45 status half-installed login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:45 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:45 install logsave:arm64 <none> 1.45.5-2ubuntu1
+2022-08-29 16:05:45 status half-installed logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:45 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:45 install lsb-base:all <none> 11.1.0ubuntu2
+2022-08-29 16:05:45 status half-installed lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:05:45 status unpacked lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:05:45 upgrade mawk:arm64 1.3.4.20200120-2 1.3.4.20200120-2
+2022-08-29 16:05:45 status half-configured mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:45 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:45 status half-installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:45 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:45 install mount:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status half-installed mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:45 install ncurses-base:all <none> 6.2-0ubuntu2
+2022-08-29 16:05:45 status half-installed ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:05:45 status unpacked ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:05:45 install ncurses-bin:arm64 <none> 6.2-0ubuntu2
+2022-08-29 16:05:45 status half-installed ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:05:45 status unpacked ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:05:45 install passwd:arm64 <none> 1:4.8.1-1ubuntu5
+2022-08-29 16:05:45 status half-installed passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:46 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:46 upgrade perl-base:arm64 5.30.0-9build1 5.30.0-9build1
+2022-08-29 16:05:46 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:46 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:46 status half-installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:46 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:46 install procps:arm64 <none> 2:3.3.16-1ubuntu2
+2022-08-29 16:05:46 status half-installed procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:46 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:46 install sed:arm64 <none> 4.7-1
+2022-08-29 16:05:46 status half-installed sed:arm64 4.7-1
+2022-08-29 16:05:46 status unpacked sed:arm64 4.7-1
+2022-08-29 16:05:46 install sensible-utils:all <none> 0.0.12+nmu1
+2022-08-29 16:05:46 status half-installed sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:05:46 status unpacked sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:05:46 install sysvinit-utils:arm64 <none> 2.96-2.1ubuntu1
+2022-08-29 16:05:46 status half-installed sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:05:46 status unpacked sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:05:46 install tar:arm64 <none> 1.30+dfsg-7
+2022-08-29 16:05:46 status half-installed tar:arm64 1.30+dfsg-7
+2022-08-29 16:05:47 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:05:47 install util-linux:arm64 <none> 2.34-0.1ubuntu9
+2022-08-29 16:05:47 status half-installed util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:47 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:47 install zlib1g:arm64 <none> 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:47 status half-installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:47 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:47 startup packages configure
+2022-08-29 16:05:47 configure lsb-base:all 11.1.0ubuntu2 <none>
+2022-08-29 16:05:47 status unpacked lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:05:47 status half-configured lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:05:47 status installed lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:05:47 configure libaudit-common:all 1:2.8.5-2ubuntu6 <none>
+2022-08-29 16:05:47 status unpacked libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:05:47 status half-configured libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:05:47 status installed libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:05:47 configure libsemanage-common:all 3.0-1build2 <none>
+2022-08-29 16:05:47 status unpacked libsemanage-common:all 3.0-1build2
+2022-08-29 16:05:47 status half-configured libsemanage-common:all 3.0-1build2
+2022-08-29 16:05:47 status installed libsemanage-common:all 3.0-1build2
+2022-08-29 16:05:47 configure gcc-10-base:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:05:47 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 status half-configured gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 status installed gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 configure ncurses-base:all 6.2-0ubuntu2 <none>
+2022-08-29 16:05:47 status unpacked ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:05:47 status half-configured ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:05:47 status installed ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:05:47 configure sensible-utils:all 0.0.12+nmu1 <none>
+2022-08-29 16:05:47 status unpacked sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:05:47 status half-configured sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:05:47 status installed sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:05:47 configure libcrypt1:arm64 1:4.4.10-10ubuntu4 <none>
+2022-08-29 16:05:47 status unpacked libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:05:47 status half-configured libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:05:47 status installed libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:05:47 configure libgcc-s1:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:05:47 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 status half-configured libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 status installed libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:47 configure libc6:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:05:47 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:47 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:47 status installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:05:47 configure libudev1:arm64 245.4-4ubuntu3 <none>
+2022-08-29 16:05:47 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:05:47 status half-configured libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:05:47 status installed libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:05:47 configure libsepol1:arm64 3.0-1 <none>
+2022-08-29 16:05:47 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:05:47 status half-configured libsepol1:arm64 3.0-1
+2022-08-29 16:05:47 status installed libsepol1:arm64 3.0-1
+2022-08-29 16:05:47 configure libattr1:arm64 1:2.4.48-5 <none>
+2022-08-29 16:05:47 status unpacked libattr1:arm64 1:2.4.48-5
+2022-08-29 16:05:47 status half-configured libattr1:arm64 1:2.4.48-5
+2022-08-29 16:05:47 status installed libattr1:arm64 1:2.4.48-5
+2022-08-29 16:05:47 configure debianutils:arm64 4.9.1 <none>
+2022-08-29 16:05:47 status unpacked debianutils:arm64 4.9.1
+2022-08-29 16:05:47 status half-configured debianutils:arm64 4.9.1
+2022-08-29 16:05:47 status installed debianutils:arm64 4.9.1
+2022-08-29 16:05:47 configure mawk:arm64 1.3.4.20200120-2 <none>
+2022-08-29 16:05:47 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:47 status half-configured mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:47 status installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:05:47 configure libdebconfclient0:arm64 0.251ubuntu1 <none>
+2022-08-29 16:05:47 status unpacked libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:05:47 status half-configured libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:05:47 status installed libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:05:47 configure base-files:arm64 11ubuntu5 <none>
+2022-08-29 16:05:47 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:05:47 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:05:47 status installed base-files:arm64 11ubuntu5
+2022-08-29 16:05:47 configure libbz2-1.0:arm64 1.0.8-2 <none>
+2022-08-29 16:05:47 status unpacked libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:05:47 status half-configured libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:05:47 status installed libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:05:47 configure base-passwd:arm64 3.5.47 <none>
+2022-08-29 16:05:47 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:05:47 status half-configured base-passwd:arm64 3.5.47
+2022-08-29 16:05:48 status installed base-passwd:arm64 3.5.47
+2022-08-29 16:05:48 configure libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:48 status half-configured libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:48 status installed libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:05:48 configure libblkid1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure libtinfo6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status half-configured libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status installed libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 configure bash:arm64 5.0-6ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:05:48 status half-configured bash:arm64 5.0-6ubuntu1
+2022-08-29 16:05:48 status installed bash:arm64 5.0-6ubuntu1
+2022-08-29 16:05:48 configure libzstd1:arm64 1.4.4+dfsg-3 <none>
+2022-08-29 16:05:48 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:05:48 status half-configured libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:05:48 status installed libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:05:48 configure liblzma5:arm64 5.2.4-1 <none>
+2022-08-29 16:05:48 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:05:48 status half-configured liblzma5:arm64 5.2.4-1
+2022-08-29 16:05:48 status installed liblzma5:arm64 5.2.4-1
+2022-08-29 16:05:48 configure libgpg-error0:arm64 1.37-1 <none>
+2022-08-29 16:05:48 status unpacked libgpg-error0:arm64 1.37-1
+2022-08-29 16:05:48 status half-configured libgpg-error0:arm64 1.37-1
+2022-08-29 16:05:48 status installed libgpg-error0:arm64 1.37-1
+2022-08-29 16:05:48 configure liblz4-1:arm64 1.9.2-2 <none>
+2022-08-29 16:05:48 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:05:48 status half-configured liblz4-1:arm64 1.9.2-2
+2022-08-29 16:05:48 status installed liblz4-1:arm64 1.9.2-2
+2022-08-29 16:05:48 configure libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:48 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:48 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:48 configure ncurses-bin:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status half-configured ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status installed ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 configure libacl1:arm64 2.2.53-6 <none>
+2022-08-29 16:05:48 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:48 status unpacked libacl1:arm64 2.2.53-6
+2022-08-29 16:05:48 status half-configured libacl1:arm64 2.2.53-6
+2022-08-29 16:05:48 status installed libacl1:arm64 2.2.53-6
+2022-08-29 16:05:48 configure libsmartcols1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure libgcrypt20:arm64 1.8.5-5ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:05:48 status half-configured libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:05:48 status installed libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:05:48 configure zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:48 status half-configured zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:48 status installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:05:48 configure libcom-err2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status half-configured libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status installed libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 configure diffutils:arm64 1:3.7-3 <none>
+2022-08-29 16:05:48 status unpacked diffutils:arm64 1:3.7-3
+2022-08-29 16:05:48 status half-configured diffutils:arm64 1:3.7-3
+2022-08-29 16:05:48 status installed diffutils:arm64 1:3.7-3
+2022-08-29 16:05:48 configure libsystemd0:arm64 245.4-4ubuntu3 <none>
+2022-08-29 16:05:48 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:05:48 status half-configured libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:05:48 status installed libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:05:48 configure hostname:arm64 3.23 <none>
+2022-08-29 16:05:48 status unpacked hostname:arm64 3.23
+2022-08-29 16:05:48 status half-configured hostname:arm64 3.23
+2022-08-29 16:05:48 status installed hostname:arm64 3.23
+2022-08-29 16:05:48 configure libpcre3:arm64 2:8.39-12build1 <none>
+2022-08-29 16:05:48 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:05:48 status half-configured libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:05:48 status installed libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:05:48 configure libcap-ng0:arm64 0.7.9-2.1build1 <none>
+2022-08-29 16:05:48 status unpacked libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:05:48 status half-configured libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:05:48 status installed libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:05:48 configure libext2fs2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status half-configured libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status installed libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 configure libncurses6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status half-configured libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status installed libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 configure libaudit1:arm64 1:2.8.5-2ubuntu6 <none>
+2022-08-29 16:05:48 status unpacked libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:05:48 status half-configured libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:05:48 status installed libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:05:48 configure libuuid1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure libss2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status half-configured libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status installed libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 configure libpcre2-8-0:arm64 10.34-7 <none>
+2022-08-29 16:05:48 status unpacked libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:05:48 status half-configured libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:05:48 status installed libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:05:48 configure libncursesw6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status half-configured libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 status installed libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:05:48 configure logsave:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status half-configured logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status installed logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 configure libfdisk1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure libprocps8:arm64 2:3.3.16-1ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:48 status half-configured libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:48 status installed libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:48 configure bsdutils:arm64 1:2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure e2fsprogs:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status half-configured e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 status installed e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:05:48 configure libselinux1:arm64 3.0-1build2 <none>
+2022-08-29 16:05:48 status unpacked libselinux1:arm64 3.0-1build2
+2022-08-29 16:05:48 status half-configured libselinux1:arm64 3.0-1build2
+2022-08-29 16:05:48 status installed libselinux1:arm64 3.0-1build2
+2022-08-29 16:05:48 configure sed:arm64 4.7-1 <none>
+2022-08-29 16:05:48 status unpacked sed:arm64 4.7-1
+2022-08-29 16:05:48 status half-configured sed:arm64 4.7-1
+2022-08-29 16:05:48 status installed sed:arm64 4.7-1
+2022-08-29 16:05:48 configure findutils:arm64 4.7.0-1ubuntu1 <none>
+2022-08-29 16:05:48 status unpacked findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:05:48 status half-configured findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:05:48 status installed findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:05:48 configure libmount1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure libsemanage1:arm64 3.0-1build2 <none>
+2022-08-29 16:05:48 status unpacked libsemanage1:arm64 3.0-1build2
+2022-08-29 16:05:48 status half-configured libsemanage1:arm64 3.0-1build2
+2022-08-29 16:05:48 status installed libsemanage1:arm64 3.0-1build2
+2022-08-29 16:05:48 configure tar:arm64 1.30+dfsg-7 <none>
+2022-08-29 16:05:48 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:05:48 status half-configured tar:arm64 1.30+dfsg-7
+2022-08-29 16:05:48 status installed tar:arm64 1.30+dfsg-7
+2022-08-29 16:05:48 configure coreutils:arm64 8.30-3ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:05:48 status half-configured coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:05:48 status installed coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:05:48 configure fdisk:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:48 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status half-configured fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 status installed fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:48 configure dpkg:arm64 1.19.7ubuntu3 <none>
+2022-08-29 16:05:48 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:48 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:48 status installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:05:48 configure grep:arm64 3.4-1 <none>
+2022-08-29 16:05:48 status unpacked grep:arm64 3.4-1
+2022-08-29 16:05:48 status half-configured grep:arm64 3.4-1
+2022-08-29 16:05:48 status installed grep:arm64 3.4-1
+2022-08-29 16:05:48 configure perl-base:arm64 5.30.0-9build1 <none>
+2022-08-29 16:05:48 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:48 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:48 status installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:05:48 configure init-system-helpers:all 1.57 <none>
+2022-08-29 16:05:48 status unpacked init-system-helpers:all 1.57
+2022-08-29 16:05:48 status half-configured init-system-helpers:all 1.57
+2022-08-29 16:05:48 status installed init-system-helpers:all 1.57
+2022-08-29 16:05:48 configure gzip:arm64 1.10-0ubuntu4 <none>
+2022-08-29 16:05:48 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:05:48 status half-configured gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:05:48 status installed gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:05:48 configure procps:arm64 2:3.3.16-1ubuntu2 <none>
+2022-08-29 16:05:48 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:49 status half-configured procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:49 status installed procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:05:49 configure debconf:all 1.5.73 <none>
+2022-08-29 16:05:49 status unpacked debconf:all 1.5.73
+2022-08-29 16:05:49 status half-configured debconf:all 1.5.73
+2022-08-29 16:05:49 status installed debconf:all 1.5.73
+2022-08-29 16:05:49 configure libpam0g:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:05:49 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status half-configured libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status installed libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 configure dash:arm64 0.5.10.2-6 <none>
+2022-08-29 16:05:49 status unpacked dash:arm64 0.5.10.2-6
+2022-08-29 16:05:49 status half-configured dash:arm64 0.5.10.2-6
+2022-08-29 16:05:49 status installed dash:arm64 0.5.10.2-6
+2022-08-29 16:05:49 configure libpam-modules-bin:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:05:49 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status half-configured libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status installed libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 configure libpam-modules:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:05:49 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status half-configured libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status installed libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:05:49 configure passwd:arm64 1:4.8.1-1ubuntu5 <none>
+2022-08-29 16:05:49 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:49 status half-configured passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:49 status installed passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:49 configure libpam-runtime:all 1.3.1-5ubuntu4 <none>
+2022-08-29 16:05:49 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:05:49 status half-configured libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:05:50 status installed libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:05:50 configure login:arm64 1:4.8.1-1ubuntu5 <none>
+2022-08-29 16:05:50 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:50 status half-configured login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:50 status installed login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:05:50 configure util-linux:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:50 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 status half-configured util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 status installed util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 configure mount:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:05:50 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 status half-configured mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 status installed mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:05:50 configure sysvinit-utils:arm64 2.96-2.1ubuntu1 <none>
+2022-08-29 16:05:50 status unpacked sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:05:50 status half-configured sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:05:50 status installed sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:05:50 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:05:50 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:50 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:50 startup archives unpack
+2022-08-29 16:05:50 install adduser:all <none> 3.118ubuntu2
+2022-08-29 16:05:51 status half-installed adduser:all 3.118ubuntu2
+2022-08-29 16:05:51 status unpacked adduser:all 3.118ubuntu2
+2022-08-29 16:05:51 install apt:arm64 <none> 2.0.2
+2022-08-29 16:05:51 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:51 status half-installed apt:arm64 2.0.2
+2022-08-29 16:05:51 status unpacked apt:arm64 2.0.2
+2022-08-29 16:05:51 install bzip2:arm64 <none> 1.0.8-2
+2022-08-29 16:05:51 status half-installed bzip2:arm64 1.0.8-2
+2022-08-29 16:05:51 status unpacked bzip2:arm64 1.0.8-2
+2022-08-29 16:05:51 install gpgv:arm64 <none> 2.2.19-3ubuntu2
+2022-08-29 16:05:51 status half-installed gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:05:51 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:05:51 install libapt-pkg6.0:arm64 <none> 2.0.2
+2022-08-29 16:05:51 status half-installed libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:05:51 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:05:51 install libffi7:arm64 <none> 3.3-4
+2022-08-29 16:05:51 status half-installed libffi7:arm64 3.3-4
+2022-08-29 16:05:51 status unpacked libffi7:arm64 3.3-4
+2022-08-29 16:05:51 install libgmp10:arm64 <none> 2:6.2.0+dfsg-4
+2022-08-29 16:05:51 status half-installed libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:05:51 status unpacked libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:05:51 install libgnutls30:arm64 <none> 3.6.13-2ubuntu1
+2022-08-29 16:05:51 status half-installed libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:05:51 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:05:51 install libhogweed5:arm64 <none> 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 status half-installed libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 install libidn2-0:arm64 <none> 2.2.0-2
+2022-08-29 16:05:51 status half-installed libidn2-0:arm64 2.2.0-2
+2022-08-29 16:05:51 status unpacked libidn2-0:arm64 2.2.0-2
+2022-08-29 16:05:51 install libnettle7:arm64 <none> 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 status half-installed libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:51 install libp11-kit0:arm64 <none> 0.23.20-1build1
+2022-08-29 16:05:51 status half-installed libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:05:51 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:05:51 install libseccomp2:arm64 <none> 2.4.3-1ubuntu1
+2022-08-29 16:05:51 status half-installed libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:05:51 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:05:51 install libstdc++6:arm64 <none> 10-20200411-0ubuntu1
+2022-08-29 16:05:51 status half-installed libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:51 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:51 install libtasn1-6:arm64 <none> 4.16.0-2
+2022-08-29 16:05:51 status half-installed libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:05:52 status unpacked libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:05:52 install libunistring2:arm64 <none> 0.9.10-2
+2022-08-29 16:05:52 status half-installed libunistring2:arm64 0.9.10-2
+2022-08-29 16:05:52 status unpacked libunistring2:arm64 0.9.10-2
+2022-08-29 16:05:52 install ubuntu-keyring:all <none> 2020.02.11.2
+2022-08-29 16:05:52 status half-installed ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:05:52 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:05:52 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:05:52 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:52 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:52 startup packages configure
+2022-08-29 16:05:52 configure adduser:all 3.118ubuntu2 <none>
+2022-08-29 16:05:52 status unpacked adduser:all 3.118ubuntu2
+2022-08-29 16:05:52 status half-configured adduser:all 3.118ubuntu2
+2022-08-29 16:05:52 status installed adduser:all 3.118ubuntu2
+2022-08-29 16:05:52 configure libffi7:arm64 3.3-4 <none>
+2022-08-29 16:05:52 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:52 status unpacked libffi7:arm64 3.3-4
+2022-08-29 16:05:52 status half-configured libffi7:arm64 3.3-4
+2022-08-29 16:05:52 status installed libffi7:arm64 3.3-4
+2022-08-29 16:05:52 configure libunistring2:arm64 0.9.10-2 <none>
+2022-08-29 16:05:52 status unpacked libunistring2:arm64 0.9.10-2
+2022-08-29 16:05:52 status half-configured libunistring2:arm64 0.9.10-2
+2022-08-29 16:05:52 status installed libunistring2:arm64 0.9.10-2
+2022-08-29 16:05:52 configure libidn2-0:arm64 2.2.0-2 <none>
+2022-08-29 16:05:52 status unpacked libidn2-0:arm64 2.2.0-2
+2022-08-29 16:05:52 status half-configured libidn2-0:arm64 2.2.0-2
+2022-08-29 16:05:52 status installed libidn2-0:arm64 2.2.0-2
+2022-08-29 16:05:52 configure bzip2:arm64 1.0.8-2 <none>
+2022-08-29 16:05:52 status unpacked bzip2:arm64 1.0.8-2
+2022-08-29 16:05:52 status half-configured bzip2:arm64 1.0.8-2
+2022-08-29 16:05:52 status installed bzip2:arm64 1.0.8-2
+2022-08-29 16:05:52 configure ubuntu-keyring:all 2020.02.11.2 <none>
+2022-08-29 16:05:52 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:05:52 status half-configured ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:05:52 status installed ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:05:52 configure libseccomp2:arm64 2.4.3-1ubuntu1 <none>
+2022-08-29 16:05:52 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:05:52 status half-configured libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:05:52 status installed libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:05:52 configure libgmp10:arm64 2:6.2.0+dfsg-4 <none>
+2022-08-29 16:05:52 status unpacked libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:05:52 status half-configured libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:05:52 status installed libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:05:52 configure libp11-kit0:arm64 0.23.20-1build1 <none>
+2022-08-29 16:05:52 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:05:52 status half-configured libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:05:52 status installed libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:05:52 configure libnettle7:arm64 3.5.1+really3.5.1-2 <none>
+2022-08-29 16:05:52 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 status half-configured libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 status installed libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 configure gpgv:arm64 2.2.19-3ubuntu2 <none>
+2022-08-29 16:05:52 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:05:52 status half-configured gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:05:52 status installed gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:05:52 configure libtasn1-6:arm64 4.16.0-2 <none>
+2022-08-29 16:05:52 status unpacked libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:05:52 status half-configured libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:05:52 status installed libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:05:52 configure libstdc++6:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:05:52 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:52 status half-configured libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:52 status installed libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:05:52 configure libhogweed5:arm64 3.5.1+really3.5.1-2 <none>
+2022-08-29 16:05:52 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 status half-configured libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 status installed libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:05:52 configure libgnutls30:arm64 3.6.13-2ubuntu1 <none>
+2022-08-29 16:05:52 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:05:52 status half-configured libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:05:52 status installed libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:05:52 configure libapt-pkg6.0:arm64 2.0.2 <none>
+2022-08-29 16:05:52 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:05:52 status half-configured libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:05:52 status installed libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:05:52 configure apt:arm64 2.0.2 <none>
+2022-08-29 16:05:52 status unpacked apt:arm64 2.0.2
+2022-08-29 16:05:52 status half-configured apt:arm64 2.0.2
+2022-08-29 16:05:53 status installed apt:arm64 2.0.2
+2022-08-29 16:05:53 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:05:53 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:05:53 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:06:01 startup archives unpack
+2022-08-29 16:06:01 upgrade adduser:all 3.118ubuntu2 3.118ubuntu2
+2022-08-29 16:06:01 status half-configured adduser:all 3.118ubuntu2
+2022-08-29 16:06:01 status unpacked adduser:all 3.118ubuntu2
+2022-08-29 16:06:01 status half-installed adduser:all 3.118ubuntu2
+2022-08-29 16:06:01 status unpacked adduser:all 3.118ubuntu2
+2022-08-29 16:06:02 startup packages configure
+2022-08-29 16:06:02 configure adduser:all 3.118ubuntu2 <none>
+2022-08-29 16:06:02 status unpacked adduser:all 3.118ubuntu2
+2022-08-29 16:06:02 status half-configured adduser:all 3.118ubuntu2
+2022-08-29 16:06:02 status installed adduser:all 3.118ubuntu2
+2022-08-29 16:06:03 startup packages configure
+2022-08-29 16:06:12 startup archives unpack
+2022-08-29 16:06:13 upgrade apt:arm64 2.0.2 2.0.2
+2022-08-29 16:06:13 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:06:13 status half-configured apt:arm64 2.0.2
+2022-08-29 16:06:13 status unpacked apt:arm64 2.0.2
+2022-08-29 16:06:13 status half-installed apt:arm64 2.0.2
+2022-08-29 16:06:13 status unpacked apt:arm64 2.0.2
+2022-08-29 16:06:14 startup packages configure
+2022-08-29 16:06:14 configure apt:arm64 2.0.2 <none>
+2022-08-29 16:06:14 status unpacked apt:arm64 2.0.2
+2022-08-29 16:06:14 status half-configured apt:arm64 2.0.2
+2022-08-29 16:06:14 status installed apt:arm64 2.0.2
+2022-08-29 16:06:15 startup packages configure
+2022-08-29 16:06:15 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:06:15 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:06:15 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:06:23 startup archives unpack
+2022-08-29 16:06:23 upgrade base-files:arm64 11ubuntu5 11ubuntu5
+2022-08-29 16:06:23 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:06:23 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:06:23 status half-installed base-files:arm64 11ubuntu5
+2022-08-29 16:06:23 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:06:24 startup packages configure
+2022-08-29 16:06:24 configure base-files:arm64 11ubuntu5 <none>
+2022-08-29 16:06:24 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:06:24 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:06:24 status installed base-files:arm64 11ubuntu5
+2022-08-29 16:06:25 startup packages configure
+2022-08-29 16:06:34 startup archives unpack
+2022-08-29 16:06:34 upgrade base-passwd:arm64 3.5.47 3.5.47
+2022-08-29 16:06:34 status half-configured base-passwd:arm64 3.5.47
+2022-08-29 16:06:34 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:06:34 status half-installed base-passwd:arm64 3.5.47
+2022-08-29 16:06:34 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:06:34 startup packages configure
+2022-08-29 16:06:34 configure base-passwd:arm64 3.5.47 <none>
+2022-08-29 16:06:34 status unpacked base-passwd:arm64 3.5.47
+2022-08-29 16:06:34 status half-configured base-passwd:arm64 3.5.47
+2022-08-29 16:06:35 status installed base-passwd:arm64 3.5.47
+2022-08-29 16:06:35 startup packages configure
+2022-08-29 16:06:44 startup archives unpack
+2022-08-29 16:06:44 upgrade bash:arm64 5.0-6ubuntu1 5.0-6ubuntu1
+2022-08-29 16:06:44 status half-configured bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:44 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:44 status half-installed bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:45 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:45 startup packages configure
+2022-08-29 16:06:45 configure bash:arm64 5.0-6ubuntu1 <none>
+2022-08-29 16:06:45 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:45 status half-configured bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:45 status installed bash:arm64 5.0-6ubuntu1
+2022-08-29 16:06:46 startup packages configure
+2022-08-29 16:06:54 startup archives unpack
+2022-08-29 16:06:54 upgrade bsdutils:arm64 1:2.34-0.1ubuntu9 1:2.34-0.1ubuntu9
+2022-08-29 16:06:54 status half-configured bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:54 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:54 status half-installed bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:55 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:55 startup packages configure
+2022-08-29 16:06:55 configure bsdutils:arm64 1:2.34-0.1ubuntu9 <none>
+2022-08-29 16:06:55 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:55 status half-configured bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:55 status installed bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:06:56 startup packages configure
+2022-08-29 16:07:04 startup archives unpack
+2022-08-29 16:07:04 upgrade bzip2:arm64 1.0.8-2 1.0.8-2
+2022-08-29 16:07:04 status half-configured bzip2:arm64 1.0.8-2
+2022-08-29 16:07:04 status unpacked bzip2:arm64 1.0.8-2
+2022-08-29 16:07:04 status half-installed bzip2:arm64 1.0.8-2
+2022-08-29 16:07:04 status unpacked bzip2:arm64 1.0.8-2
+2022-08-29 16:07:05 startup packages configure
+2022-08-29 16:07:05 configure bzip2:arm64 1.0.8-2 <none>
+2022-08-29 16:07:05 status unpacked bzip2:arm64 1.0.8-2
+2022-08-29 16:07:05 status half-configured bzip2:arm64 1.0.8-2
+2022-08-29 16:07:05 status installed bzip2:arm64 1.0.8-2
+2022-08-29 16:07:15 startup archives unpack
+2022-08-29 16:07:15 upgrade coreutils:arm64 8.30-3ubuntu2 8.30-3ubuntu2
+2022-08-29 16:07:15 status half-configured coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:15 status unpacked coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:15 status half-installed coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:15 status unpacked coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:16 startup packages configure
+2022-08-29 16:07:16 configure coreutils:arm64 8.30-3ubuntu2 <none>
+2022-08-29 16:07:16 status unpacked coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:16 status half-configured coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:16 status installed coreutils:arm64 8.30-3ubuntu2
+2022-08-29 16:07:16 startup packages configure
+2022-08-29 16:07:25 startup archives unpack
+2022-08-29 16:07:25 upgrade dash:arm64 0.5.10.2-6 0.5.10.2-6
+2022-08-29 16:07:25 status half-configured dash:arm64 0.5.10.2-6
+2022-08-29 16:07:25 status unpacked dash:arm64 0.5.10.2-6
+2022-08-29 16:07:25 status half-installed dash:arm64 0.5.10.2-6
+2022-08-29 16:07:25 status unpacked dash:arm64 0.5.10.2-6
+2022-08-29 16:07:26 startup packages configure
+2022-08-29 16:07:26 configure dash:arm64 0.5.10.2-6 <none>
+2022-08-29 16:07:26 status unpacked dash:arm64 0.5.10.2-6
+2022-08-29 16:07:26 status half-configured dash:arm64 0.5.10.2-6
+2022-08-29 16:07:26 status installed dash:arm64 0.5.10.2-6
+2022-08-29 16:07:27 startup packages configure
+2022-08-29 16:07:35 startup archives unpack
+2022-08-29 16:07:35 upgrade debconf:all 1.5.73 1.5.73
+2022-08-29 16:07:35 status half-configured debconf:all 1.5.73
+2022-08-29 16:07:35 status unpacked debconf:all 1.5.73
+2022-08-29 16:07:35 status half-installed debconf:all 1.5.73
+2022-08-29 16:07:35 status unpacked debconf:all 1.5.73
+2022-08-29 16:07:36 startup packages configure
+2022-08-29 16:07:36 configure debconf:all 1.5.73 <none>
+2022-08-29 16:07:36 status unpacked debconf:all 1.5.73
+2022-08-29 16:07:36 status half-configured debconf:all 1.5.73
+2022-08-29 16:07:36 status installed debconf:all 1.5.73
+2022-08-29 16:07:37 startup packages configure
+2022-08-29 16:07:45 startup archives unpack
+2022-08-29 16:07:45 upgrade debianutils:arm64 4.9.1 4.9.1
+2022-08-29 16:07:45 status half-configured debianutils:arm64 4.9.1
+2022-08-29 16:07:45 status unpacked debianutils:arm64 4.9.1
+2022-08-29 16:07:45 status half-installed debianutils:arm64 4.9.1
+2022-08-29 16:07:45 status unpacked debianutils:arm64 4.9.1
+2022-08-29 16:07:46 startup packages configure
+2022-08-29 16:07:46 configure debianutils:arm64 4.9.1 <none>
+2022-08-29 16:07:46 status unpacked debianutils:arm64 4.9.1
+2022-08-29 16:07:46 status half-configured debianutils:arm64 4.9.1
+2022-08-29 16:07:46 status installed debianutils:arm64 4.9.1
+2022-08-29 16:07:47 startup packages configure
+2022-08-29 16:07:56 startup archives unpack
+2022-08-29 16:07:56 upgrade diffutils:arm64 1:3.7-3 1:3.7-3
+2022-08-29 16:07:56 status half-configured diffutils:arm64 1:3.7-3
+2022-08-29 16:07:56 status unpacked diffutils:arm64 1:3.7-3
+2022-08-29 16:07:56 status half-installed diffutils:arm64 1:3.7-3
+2022-08-29 16:07:56 status unpacked diffutils:arm64 1:3.7-3
+2022-08-29 16:07:57 startup packages configure
+2022-08-29 16:07:57 configure diffutils:arm64 1:3.7-3 <none>
+2022-08-29 16:07:57 status unpacked diffutils:arm64 1:3.7-3
+2022-08-29 16:07:57 status half-configured diffutils:arm64 1:3.7-3
+2022-08-29 16:07:57 status installed diffutils:arm64 1:3.7-3
+2022-08-29 16:07:57 startup packages configure
+2022-08-29 16:08:07 startup archives unpack
+2022-08-29 16:08:07 upgrade dpkg:arm64 1.19.7ubuntu3 1.19.7ubuntu3
+2022-08-29 16:08:07 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:07 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:07 status half-installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:07 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:08 startup packages configure
+2022-08-29 16:08:08 configure dpkg:arm64 1.19.7ubuntu3 <none>
+2022-08-29 16:08:08 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:08 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:08 status installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:08:08 startup packages configure
+2022-08-29 16:08:17 startup archives unpack
+2022-08-29 16:08:17 upgrade e2fsprogs:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1
+2022-08-29 16:08:17 status half-configured e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:17 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:17 status half-installed e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:17 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:18 startup packages configure
+2022-08-29 16:08:18 configure e2fsprogs:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:08:18 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:18 status half-configured e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:19 status installed e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:08:27 startup archives unpack
+2022-08-29 16:08:27 upgrade fdisk:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:08:27 status half-configured fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:27 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:27 status half-installed fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:27 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:28 startup packages configure
+2022-08-29 16:08:28 configure fdisk:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:08:28 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:28 status half-configured fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:28 status installed fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:08:38 startup archives unpack
+2022-08-29 16:08:38 upgrade findutils:arm64 4.7.0-1ubuntu1 4.7.0-1ubuntu1
+2022-08-29 16:08:38 status half-configured findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:38 status unpacked findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:38 status half-installed findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:38 status unpacked findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:39 startup packages configure
+2022-08-29 16:08:39 configure findutils:arm64 4.7.0-1ubuntu1 <none>
+2022-08-29 16:08:39 status unpacked findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:39 status half-configured findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:39 status installed findutils:arm64 4.7.0-1ubuntu1
+2022-08-29 16:08:40 startup packages configure
+2022-08-29 16:08:48 startup archives unpack
+2022-08-29 16:08:48 upgrade gcc-10-base:arm64 10-20200411-0ubuntu1 10-20200411-0ubuntu1
+2022-08-29 16:08:48 status half-configured gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:48 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:48 status half-installed gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:48 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:49 startup packages configure
+2022-08-29 16:08:49 configure gcc-10-base:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:08:49 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:49 status half-configured gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:49 status installed gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:08:50 startup packages configure
+2022-08-29 16:08:59 startup archives unpack
+2022-08-29 16:08:59 upgrade gpgv:arm64 2.2.19-3ubuntu2 2.2.19-3ubuntu2
+2022-08-29 16:08:59 status half-configured gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:08:59 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:08:59 status half-installed gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:08:59 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:09:00 startup packages configure
+2022-08-29 16:09:00 configure gpgv:arm64 2.2.19-3ubuntu2 <none>
+2022-08-29 16:09:00 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:09:00 status half-configured gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:09:00 status installed gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:09:01 startup packages configure
+2022-08-29 16:09:10 startup archives unpack
+2022-08-29 16:09:10 upgrade grep:arm64 3.4-1 3.4-1
+2022-08-29 16:09:10 status half-configured grep:arm64 3.4-1
+2022-08-29 16:09:10 status unpacked grep:arm64 3.4-1
+2022-08-29 16:09:10 status half-installed grep:arm64 3.4-1
+2022-08-29 16:09:10 status unpacked grep:arm64 3.4-1
+2022-08-29 16:09:10 startup packages configure
+2022-08-29 16:09:10 configure grep:arm64 3.4-1 <none>
+2022-08-29 16:09:10 status unpacked grep:arm64 3.4-1
+2022-08-29 16:09:10 status half-configured grep:arm64 3.4-1
+2022-08-29 16:09:10 status installed grep:arm64 3.4-1
+2022-08-29 16:09:11 startup packages configure
+2022-08-29 16:09:20 startup archives unpack
+2022-08-29 16:09:20 upgrade gzip:arm64 1.10-0ubuntu4 1.10-0ubuntu4
+2022-08-29 16:09:20 status half-configured gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:20 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:20 status half-installed gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:20 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:21 startup packages configure
+2022-08-29 16:09:21 configure gzip:arm64 1.10-0ubuntu4 <none>
+2022-08-29 16:09:21 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:21 status half-configured gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:21 status installed gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:09:22 startup packages configure
+2022-08-29 16:09:30 startup archives unpack
+2022-08-29 16:09:30 upgrade hostname:arm64 3.23 3.23
+2022-08-29 16:09:30 status half-configured hostname:arm64 3.23
+2022-08-29 16:09:30 status unpacked hostname:arm64 3.23
+2022-08-29 16:09:30 status half-installed hostname:arm64 3.23
+2022-08-29 16:09:30 status unpacked hostname:arm64 3.23
+2022-08-29 16:09:31 startup packages configure
+2022-08-29 16:09:31 configure hostname:arm64 3.23 <none>
+2022-08-29 16:09:31 status unpacked hostname:arm64 3.23
+2022-08-29 16:09:31 status half-configured hostname:arm64 3.23
+2022-08-29 16:09:31 status installed hostname:arm64 3.23
+2022-08-29 16:09:31 startup packages configure
+2022-08-29 16:09:40 startup archives unpack
+2022-08-29 16:09:40 upgrade init-system-helpers:all 1.57 1.57
+2022-08-29 16:09:40 status half-configured init-system-helpers:all 1.57
+2022-08-29 16:09:40 status unpacked init-system-helpers:all 1.57
+2022-08-29 16:09:40 status half-installed init-system-helpers:all 1.57
+2022-08-29 16:09:40 status unpacked init-system-helpers:all 1.57
+2022-08-29 16:09:41 startup packages configure
+2022-08-29 16:09:41 configure init-system-helpers:all 1.57 <none>
+2022-08-29 16:09:41 status unpacked init-system-helpers:all 1.57
+2022-08-29 16:09:41 status half-configured init-system-helpers:all 1.57
+2022-08-29 16:09:41 status installed init-system-helpers:all 1.57
+2022-08-29 16:09:41 startup packages configure
+2022-08-29 16:09:50 startup archives unpack
+2022-08-29 16:09:50 upgrade libacl1:arm64 2.2.53-6 2.2.53-6
+2022-08-29 16:09:50 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:09:50 status half-configured libacl1:arm64 2.2.53-6
+2022-08-29 16:09:50 status unpacked libacl1:arm64 2.2.53-6
+2022-08-29 16:09:50 status half-installed libacl1:arm64 2.2.53-6
+2022-08-29 16:09:50 status unpacked libacl1:arm64 2.2.53-6
+2022-08-29 16:09:51 startup packages configure
+2022-08-29 16:09:51 configure libacl1:arm64 2.2.53-6 <none>
+2022-08-29 16:09:51 status unpacked libacl1:arm64 2.2.53-6
+2022-08-29 16:09:51 status half-configured libacl1:arm64 2.2.53-6
+2022-08-29 16:09:51 status installed libacl1:arm64 2.2.53-6
+2022-08-29 16:09:51 startup packages configure
+2022-08-29 16:09:51 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:09:51 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:09:51 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:02 startup archives unpack
+2022-08-29 16:10:02 upgrade libapt-pkg6.0:arm64 2.0.2 2.0.2
+2022-08-29 16:10:02 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:02 status half-configured libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:02 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:02 status half-installed libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:02 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:03 startup packages configure
+2022-08-29 16:10:03 configure libapt-pkg6.0:arm64 2.0.2 <none>
+2022-08-29 16:10:03 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:03 status half-configured libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:03 status installed libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:10:03 startup packages configure
+2022-08-29 16:10:03 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:10:03 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:03 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:12 startup archives unpack
+2022-08-29 16:10:12 upgrade libattr1:arm64 1:2.4.48-5 1:2.4.48-5
+2022-08-29 16:10:12 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:12 status half-configured libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 status unpacked libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 status half-installed libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 status unpacked libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 startup packages configure
+2022-08-29 16:10:12 configure libattr1:arm64 1:2.4.48-5 <none>
+2022-08-29 16:10:12 status unpacked libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 status half-configured libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:12 status installed libattr1:arm64 1:2.4.48-5
+2022-08-29 16:10:13 startup packages configure
+2022-08-29 16:10:13 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:10:13 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:13 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:22 startup archives unpack
+2022-08-29 16:10:22 upgrade libaudit-common:all 1:2.8.5-2ubuntu6 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status half-configured libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status unpacked libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status half-installed libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status unpacked libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 startup packages configure
+2022-08-29 16:10:22 configure libaudit-common:all 1:2.8.5-2ubuntu6 <none>
+2022-08-29 16:10:22 status unpacked libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status half-configured libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:22 status installed libaudit-common:all 1:2.8.5-2ubuntu6
+2022-08-29 16:10:23 startup packages configure
+2022-08-29 16:10:31 startup archives unpack
+2022-08-29 16:10:31 upgrade libaudit1:arm64 1:2.8.5-2ubuntu6 1:2.8.5-2ubuntu6
+2022-08-29 16:10:31 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:31 status half-configured libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:31 status unpacked libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:31 status half-installed libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:32 status unpacked libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:32 startup packages configure
+2022-08-29 16:10:32 configure libaudit1:arm64 1:2.8.5-2ubuntu6 <none>
+2022-08-29 16:10:32 status unpacked libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:32 status half-configured libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:32 status installed libaudit1:arm64 1:2.8.5-2ubuntu6
+2022-08-29 16:10:33 startup packages configure
+2022-08-29 16:10:33 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:10:33 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:33 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:42 startup archives unpack
+2022-08-29 16:10:42 upgrade libblkid1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:10:42 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:42 status half-configured libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:42 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:42 status half-installed libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:42 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:43 startup packages configure
+2022-08-29 16:10:43 configure libblkid1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:10:43 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:43 status half-configured libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:43 status installed libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:10:43 startup packages configure
+2022-08-29 16:10:43 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:10:43 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:43 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:52 startup archives unpack
+2022-08-29 16:10:52 upgrade libbz2-1.0:arm64 1.0.8-2 1.0.8-2
+2022-08-29 16:10:52 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:52 status half-configured libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:52 status unpacked libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:52 status half-installed libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:52 status unpacked libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:53 startup packages configure
+2022-08-29 16:10:53 configure libbz2-1.0:arm64 1.0.8-2 <none>
+2022-08-29 16:10:53 status unpacked libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:53 status half-configured libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:53 status installed libbz2-1.0:arm64 1.0.8-2
+2022-08-29 16:10:53 startup packages configure
+2022-08-29 16:10:53 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:10:53 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:10:53 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:03 startup archives unpack
+2022-08-29 16:11:03 upgrade libc-bin:arm64 2.31-0ubuntu9 2.31-0ubuntu9
+2022-08-29 16:11:03 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:03 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:03 status half-installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:03 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:04 startup packages configure
+2022-08-29 16:11:04 configure libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:04 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:04 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:04 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:05 startup packages configure
+2022-08-29 16:11:16 startup archives unpack
+2022-08-29 16:11:16 upgrade libc6:arm64 2.31-0ubuntu9 2.31-0ubuntu9
+2022-08-29 16:11:16 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:16 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:16 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:16 status half-installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:16 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:17 startup packages configure
+2022-08-29 16:11:17 configure libc6:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:17 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:17 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:18 status installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:11:19 startup packages configure
+2022-08-29 16:11:19 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:19 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:19 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:27 startup archives unpack
+2022-08-29 16:11:27 upgrade libcap-ng0:arm64 0.7.9-2.1build1 0.7.9-2.1build1
+2022-08-29 16:11:27 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:27 status half-configured libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:27 status unpacked libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:27 status half-installed libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:27 status unpacked libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:28 startup packages configure
+2022-08-29 16:11:28 configure libcap-ng0:arm64 0.7.9-2.1build1 <none>
+2022-08-29 16:11:28 status unpacked libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:28 status half-configured libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:28 status installed libcap-ng0:arm64 0.7.9-2.1build1
+2022-08-29 16:11:29 startup packages configure
+2022-08-29 16:11:29 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:29 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:29 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:37 startup archives unpack
+2022-08-29 16:11:37 upgrade libcom-err2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1
+2022-08-29 16:11:37 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:37 status half-configured libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:37 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:37 status half-installed libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:37 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:38 startup packages configure
+2022-08-29 16:11:38 configure libcom-err2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:11:38 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:38 status half-configured libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:38 status installed libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:11:38 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:38 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:38 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:46 startup archives unpack
+2022-08-29 16:11:46 upgrade libcrypt1:arm64 1:4.4.10-10ubuntu4 1:4.4.10-10ubuntu4
+2022-08-29 16:11:46 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:46 status half-configured libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:46 status unpacked libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:46 status half-installed libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:46 status unpacked libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:47 startup packages configure
+2022-08-29 16:11:47 configure libcrypt1:arm64 1:4.4.10-10ubuntu4 <none>
+2022-08-29 16:11:47 status unpacked libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:47 status half-configured libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:47 status installed libcrypt1:arm64 1:4.4.10-10ubuntu4
+2022-08-29 16:11:48 startup packages configure
+2022-08-29 16:11:48 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:11:48 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:11:48 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:02 startup archives unpack
+2022-08-29 16:12:02 upgrade libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:02 status half-configured libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status unpacked libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status half-installed libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status unpacked libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 startup packages configure
+2022-08-29 16:12:02 configure libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2 <none>
+2022-08-29 16:12:02 status unpacked libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status half-configured libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:02 status installed libdb5.3:arm64 5.3.28+dfsg1-0.6ubuntu2
+2022-08-29 16:12:03 startup packages configure
+2022-08-29 16:12:03 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:03 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:03 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:11 startup archives unpack
+2022-08-29 16:12:12 upgrade libdebconfclient0:arm64 0.251ubuntu1 0.251ubuntu1
+2022-08-29 16:12:12 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:12 status half-configured libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 status unpacked libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 status half-installed libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 status unpacked libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 startup packages configure
+2022-08-29 16:12:12 configure libdebconfclient0:arm64 0.251ubuntu1 <none>
+2022-08-29 16:12:12 status unpacked libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 status half-configured libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:12 status installed libdebconfclient0:arm64 0.251ubuntu1
+2022-08-29 16:12:13 startup packages configure
+2022-08-29 16:12:13 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:13 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:13 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:22 startup archives unpack
+2022-08-29 16:12:22 upgrade libext2fs2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1
+2022-08-29 16:12:22 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:22 status half-configured libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:22 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:22 status half-installed libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:22 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:23 startup packages configure
+2022-08-29 16:12:23 configure libext2fs2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:12:23 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:23 status half-configured libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:23 status installed libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:12:23 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:23 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:23 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:31 startup archives unpack
+2022-08-29 16:12:31 upgrade libfdisk1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:12:31 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:31 status half-configured libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:31 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:31 status half-installed libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:31 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:32 startup packages configure
+2022-08-29 16:12:32 configure libfdisk1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:12:32 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:32 status half-configured libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:32 status installed libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:12:32 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:32 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:32 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:40 startup archives unpack
+2022-08-29 16:12:40 upgrade libffi7:arm64 3.3-4 3.3-4
+2022-08-29 16:12:40 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:40 status half-configured libffi7:arm64 3.3-4
+2022-08-29 16:12:40 status unpacked libffi7:arm64 3.3-4
+2022-08-29 16:12:40 status half-installed libffi7:arm64 3.3-4
+2022-08-29 16:12:40 status unpacked libffi7:arm64 3.3-4
+2022-08-29 16:12:41 startup packages configure
+2022-08-29 16:12:41 configure libffi7:arm64 3.3-4 <none>
+2022-08-29 16:12:41 status unpacked libffi7:arm64 3.3-4
+2022-08-29 16:12:41 status half-configured libffi7:arm64 3.3-4
+2022-08-29 16:12:41 status installed libffi7:arm64 3.3-4
+2022-08-29 16:12:42 startup packages configure
+2022-08-29 16:12:42 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:42 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:42 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:50 startup archives unpack
+2022-08-29 16:12:50 upgrade libgcc-s1:arm64 10-20200411-0ubuntu1 10-20200411-0ubuntu1
+2022-08-29 16:12:50 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:50 status half-configured libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:50 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:50 status half-installed libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:50 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:51 startup packages configure
+2022-08-29 16:12:51 configure libgcc-s1:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:12:51 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:51 status half-configured libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:51 status installed libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:12:52 startup packages configure
+2022-08-29 16:12:52 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:12:52 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:12:52 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:00 startup archives unpack
+2022-08-29 16:13:00 upgrade libgcrypt20:arm64 1.8.5-5ubuntu1 1.8.5-5ubuntu1
+2022-08-29 16:13:00 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:00 status half-configured libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:00 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:00 status half-installed libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:00 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:01 startup packages configure
+2022-08-29 16:13:01 configure libgcrypt20:arm64 1.8.5-5ubuntu1 <none>
+2022-08-29 16:13:01 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:01 status half-configured libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:01 status installed libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:13:02 startup packages configure
+2022-08-29 16:13:02 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:02 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:02 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:11 startup archives unpack
+2022-08-29 16:13:11 upgrade libgmp10:arm64 2:6.2.0+dfsg-4 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:11 status half-configured libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status unpacked libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status half-installed libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status unpacked libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 startup packages configure
+2022-08-29 16:13:11 configure libgmp10:arm64 2:6.2.0+dfsg-4 <none>
+2022-08-29 16:13:11 status unpacked libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status half-configured libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:11 status installed libgmp10:arm64 2:6.2.0+dfsg-4
+2022-08-29 16:13:12 startup packages configure
+2022-08-29 16:13:12 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:12 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:12 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:21 startup archives unpack
+2022-08-29 16:13:21 upgrade libgnutls30:arm64 3.6.13-2ubuntu1 3.6.13-2ubuntu1
+2022-08-29 16:13:21 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:21 status half-configured libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:21 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:21 status half-installed libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:21 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:22 startup packages configure
+2022-08-29 16:13:22 configure libgnutls30:arm64 3.6.13-2ubuntu1 <none>
+2022-08-29 16:13:22 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:22 status half-configured libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:22 status installed libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:13:23 startup packages configure
+2022-08-29 16:13:23 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:23 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:23 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:31 startup archives unpack
+2022-08-29 16:13:31 upgrade libgpg-error0:arm64 1.37-1 1.37-1
+2022-08-29 16:13:31 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:31 status half-configured libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:31 status unpacked libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:31 status half-installed libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:31 status unpacked libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:32 startup packages configure
+2022-08-29 16:13:32 configure libgpg-error0:arm64 1.37-1 <none>
+2022-08-29 16:13:32 status unpacked libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:32 status half-configured libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:32 status installed libgpg-error0:arm64 1.37-1
+2022-08-29 16:13:33 startup packages configure
+2022-08-29 16:13:33 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:33 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:33 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:41 startup archives unpack
+2022-08-29 16:13:41 upgrade libhogweed5:arm64 3.5.1+really3.5.1-2 3.5.1+really3.5.1-2
+2022-08-29 16:13:41 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:41 status half-configured libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:41 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:41 status half-installed libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:41 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:42 startup packages configure
+2022-08-29 16:13:42 configure libhogweed5:arm64 3.5.1+really3.5.1-2 <none>
+2022-08-29 16:13:42 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:42 status half-configured libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:42 status installed libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:13:43 startup packages configure
+2022-08-29 16:13:43 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:43 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:43 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:51 startup archives unpack
+2022-08-29 16:13:51 upgrade libidn2-0:arm64 2.2.0-2 2.2.0-2
+2022-08-29 16:13:51 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:51 status half-configured libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:51 status unpacked libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:51 status half-installed libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:51 status unpacked libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:52 startup packages configure
+2022-08-29 16:13:52 configure libidn2-0:arm64 2.2.0-2 <none>
+2022-08-29 16:13:52 status unpacked libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:52 status half-configured libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:52 status installed libidn2-0:arm64 2.2.0-2
+2022-08-29 16:13:53 startup packages configure
+2022-08-29 16:13:53 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:13:53 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:13:53 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:01 startup archives unpack
+2022-08-29 16:14:01 upgrade liblz4-1:arm64 1.9.2-2 1.9.2-2
+2022-08-29 16:14:01 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:01 status half-configured liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:01 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:01 status half-installed liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:01 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:02 startup packages configure
+2022-08-29 16:14:02 configure liblz4-1:arm64 1.9.2-2 <none>
+2022-08-29 16:14:02 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:02 status half-configured liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:02 status installed liblz4-1:arm64 1.9.2-2
+2022-08-29 16:14:03 startup packages configure
+2022-08-29 16:14:03 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:03 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:03 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:11 startup archives unpack
+2022-08-29 16:14:11 upgrade liblzma5:arm64 5.2.4-1 5.2.4-1
+2022-08-29 16:14:11 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:11 status half-configured liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:11 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:11 status half-installed liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:11 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:12 startup packages configure
+2022-08-29 16:14:12 configure liblzma5:arm64 5.2.4-1 <none>
+2022-08-29 16:14:12 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:12 status half-configured liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:12 status installed liblzma5:arm64 5.2.4-1
+2022-08-29 16:14:13 startup packages configure
+2022-08-29 16:14:13 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:13 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:13 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:21 startup archives unpack
+2022-08-29 16:14:21 upgrade libmount1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:14:21 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:21 status half-configured libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:21 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:21 status half-installed libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:21 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:22 startup packages configure
+2022-08-29 16:14:22 configure libmount1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:14:22 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:22 status half-configured libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:22 status installed libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:14:23 startup packages configure
+2022-08-29 16:14:23 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:23 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:23 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:31 startup archives unpack
+2022-08-29 16:14:31 upgrade libncurses6:arm64 6.2-0ubuntu2 6.2-0ubuntu2
+2022-08-29 16:14:31 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:31 status half-configured libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:31 status unpacked libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:31 status half-installed libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:31 status unpacked libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:32 startup packages configure
+2022-08-29 16:14:32 configure libncurses6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:14:32 status unpacked libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:32 status half-configured libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:32 status installed libncurses6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:32 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:32 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:32 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:41 startup archives unpack
+2022-08-29 16:14:41 upgrade libncursesw6:arm64 6.2-0ubuntu2 6.2-0ubuntu2
+2022-08-29 16:14:41 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:41 status half-configured libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:41 status unpacked libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:41 status half-installed libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:41 status unpacked libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:42 startup packages configure
+2022-08-29 16:14:42 configure libncursesw6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:14:42 status unpacked libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:42 status half-configured libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:42 status installed libncursesw6:arm64 6.2-0ubuntu2
+2022-08-29 16:14:42 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:42 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:42 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:50 startup archives unpack
+2022-08-29 16:14:50 upgrade libnettle7:arm64 3.5.1+really3.5.1-2 3.5.1+really3.5.1-2
+2022-08-29 16:14:50 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:50 status half-configured libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:50 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:50 status half-installed libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:50 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:51 startup packages configure
+2022-08-29 16:14:51 configure libnettle7:arm64 3.5.1+really3.5.1-2 <none>
+2022-08-29 16:14:51 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:51 status half-configured libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:51 status installed libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:14:52 startup packages configure
+2022-08-29 16:14:52 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:14:52 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:14:52 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:00 startup archives unpack
+2022-08-29 16:15:00 upgrade libp11-kit0:arm64 0.23.20-1build1 0.23.20-1build1
+2022-08-29 16:15:00 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:00 status half-configured libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:00 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:00 status half-installed libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:00 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:01 startup packages configure
+2022-08-29 16:15:01 configure libp11-kit0:arm64 0.23.20-1build1 <none>
+2022-08-29 16:15:01 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:01 status half-configured libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:01 status installed libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:15:02 startup packages configure
+2022-08-29 16:15:02 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:15:02 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:02 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:10 startup archives unpack
+2022-08-29 16:15:10 upgrade libpam-modules:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4
+2022-08-29 16:15:10 status half-configured libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:10 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:10 status half-installed libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:11 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:11 startup packages configure
+2022-08-29 16:15:11 configure libpam-modules:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:15:11 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:11 status half-configured libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:11 status installed libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:12 startup packages configure
+2022-08-29 16:15:20 startup archives unpack
+2022-08-29 16:15:20 upgrade libpam-modules-bin:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4
+2022-08-29 16:15:20 status half-configured libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:20 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:20 status half-installed libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:21 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:21 startup packages configure
+2022-08-29 16:15:21 configure libpam-modules-bin:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:15:21 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:21 status half-configured libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:21 status installed libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:22 startup packages configure
+2022-08-29 16:15:30 startup archives unpack
+2022-08-29 16:15:30 upgrade libpam-runtime:all 1.3.1-5ubuntu4 1.3.1-5ubuntu4
+2022-08-29 16:15:30 status half-configured libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:30 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:30 status half-installed libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:30 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:31 startup packages configure
+2022-08-29 16:15:31 configure libpam-runtime:all 1.3.1-5ubuntu4 <none>
+2022-08-29 16:15:31 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:31 status half-configured libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:31 status installed libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:15:32 startup packages configure
+2022-08-29 16:15:41 startup archives unpack
+2022-08-29 16:15:41 upgrade libpam0g:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4
+2022-08-29 16:15:41 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:41 status half-configured libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:41 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:41 status half-installed libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:41 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:41 startup packages configure
+2022-08-29 16:15:41 configure libpam0g:arm64 1.3.1-5ubuntu4 <none>
+2022-08-29 16:15:41 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:41 status half-configured libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:42 status installed libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:15:42 startup packages configure
+2022-08-29 16:15:42 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:15:42 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:42 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:51 startup archives unpack
+2022-08-29 16:15:51 upgrade libpcre2-8-0:arm64 10.34-7 10.34-7
+2022-08-29 16:15:51 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:51 status half-configured libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:51 status unpacked libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:51 status half-installed libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:51 status unpacked libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:52 startup packages configure
+2022-08-29 16:15:52 configure libpcre2-8-0:arm64 10.34-7 <none>
+2022-08-29 16:15:52 status unpacked libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:52 status half-configured libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:52 status installed libpcre2-8-0:arm64 10.34-7
+2022-08-29 16:15:52 startup packages configure
+2022-08-29 16:15:52 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:15:52 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:15:52 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:01 startup archives unpack
+2022-08-29 16:16:01 upgrade libpcre3:arm64 2:8.39-12build1 2:8.39-12build1
+2022-08-29 16:16:01 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:01 status half-configured libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:01 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:01 status half-installed libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:01 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:02 startup packages configure
+2022-08-29 16:16:02 configure libpcre3:arm64 2:8.39-12build1 <none>
+2022-08-29 16:16:02 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:02 status half-configured libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:02 status installed libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:16:03 startup packages configure
+2022-08-29 16:16:03 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:16:03 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:03 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:11 startup archives unpack
+2022-08-29 16:16:11 upgrade libprocps8:arm64 2:3.3.16-1ubuntu2 2:3.3.16-1ubuntu2
+2022-08-29 16:16:11 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:11 status half-configured libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:11 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:11 status half-installed libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:11 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:12 startup packages configure
+2022-08-29 16:16:12 configure libprocps8:arm64 2:3.3.16-1ubuntu2 <none>
+2022-08-29 16:16:12 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:12 status half-configured libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:12 status installed libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:16:12 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:16:12 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:12 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:20 startup archives unpack
+2022-08-29 16:16:20 upgrade libseccomp2:arm64 2.4.3-1ubuntu1 2.4.3-1ubuntu1
+2022-08-29 16:16:20 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:20 status half-configured libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:20 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:20 status half-installed libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:20 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:21 startup packages configure
+2022-08-29 16:16:21 configure libseccomp2:arm64 2.4.3-1ubuntu1 <none>
+2022-08-29 16:16:21 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:21 status half-configured libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:21 status installed libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:16:22 startup packages configure
+2022-08-29 16:16:22 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:16:22 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:22 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:30 startup archives unpack
+2022-08-29 16:16:30 upgrade libselinux1:arm64 3.0-1build2 3.0-1build2
+2022-08-29 16:16:30 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:30 status half-configured libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:30 status unpacked libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:30 status half-installed libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:30 status unpacked libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:31 startup packages configure
+2022-08-29 16:16:31 configure libselinux1:arm64 3.0-1build2 <none>
+2022-08-29 16:16:31 status unpacked libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:31 status half-configured libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:31 status installed libselinux1:arm64 3.0-1build2
+2022-08-29 16:16:32 startup packages configure
+2022-08-29 16:16:32 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:16:32 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:32 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:40 startup archives unpack
+2022-08-29 16:16:40 upgrade libsemanage-common:all 3.0-1build2 3.0-1build2
+2022-08-29 16:16:40 status half-configured libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:40 status unpacked libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:40 status half-installed libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:40 status unpacked libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:41 startup packages configure
+2022-08-29 16:16:41 configure libsemanage-common:all 3.0-1build2 <none>
+2022-08-29 16:16:41 status unpacked libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:41 status half-configured libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:41 status installed libsemanage-common:all 3.0-1build2
+2022-08-29 16:16:41 startup packages configure
+2022-08-29 16:16:50 startup archives unpack
+2022-08-29 16:16:50 upgrade libsemanage1:arm64 3.0-1build2 3.0-1build2
+2022-08-29 16:16:50 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:50 status half-configured libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:50 status unpacked libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:50 status half-installed libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:50 status unpacked libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:51 startup packages configure
+2022-08-29 16:16:51 configure libsemanage1:arm64 3.0-1build2 <none>
+2022-08-29 16:16:51 status unpacked libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:51 status half-configured libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:51 status installed libsemanage1:arm64 3.0-1build2
+2022-08-29 16:16:51 startup packages configure
+2022-08-29 16:16:51 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:16:51 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:16:51 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:00 startup archives unpack
+2022-08-29 16:17:00 upgrade libsepol1:arm64 3.0-1 3.0-1
+2022-08-29 16:17:00 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:00 status half-configured libsepol1:arm64 3.0-1
+2022-08-29 16:17:00 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:17:00 status half-installed libsepol1:arm64 3.0-1
+2022-08-29 16:17:00 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:17:01 startup packages configure
+2022-08-29 16:17:01 configure libsepol1:arm64 3.0-1 <none>
+2022-08-29 16:17:01 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:17:01 status half-configured libsepol1:arm64 3.0-1
+2022-08-29 16:17:01 status installed libsepol1:arm64 3.0-1
+2022-08-29 16:17:02 startup packages configure
+2022-08-29 16:17:02 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:02 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:02 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:10 startup archives unpack
+2022-08-29 16:17:10 upgrade libsmartcols1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:17:10 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:10 status half-configured libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:10 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:10 status half-installed libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:10 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:11 startup packages configure
+2022-08-29 16:17:11 configure libsmartcols1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:17:11 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:11 status half-configured libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:11 status installed libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:17:12 startup packages configure
+2022-08-29 16:17:12 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:12 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:12 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:20 startup archives unpack
+2022-08-29 16:17:20 upgrade libss2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1
+2022-08-29 16:17:20 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:20 status half-configured libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:20 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:20 status half-installed libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:20 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:21 startup packages configure
+2022-08-29 16:17:21 configure libss2:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:17:21 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:21 status half-configured libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:21 status installed libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:17:21 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:21 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:21 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:29 startup archives unpack
+2022-08-29 16:17:30 upgrade libstdc++6:arm64 10-20200411-0ubuntu1 10-20200411-0ubuntu1
+2022-08-29 16:17:30 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:30 status half-configured libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:30 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:30 status half-installed libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:30 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:31 startup packages configure
+2022-08-29 16:17:31 configure libstdc++6:arm64 10-20200411-0ubuntu1 <none>
+2022-08-29 16:17:31 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:31 status half-configured libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:31 status installed libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:17:31 startup packages configure
+2022-08-29 16:17:31 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:31 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:31 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:40 startup archives unpack
+2022-08-29 16:17:40 upgrade libsystemd0:arm64 245.4-4ubuntu3 245.4-4ubuntu3
+2022-08-29 16:17:40 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:40 status half-configured libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:40 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:40 status half-installed libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:40 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:41 startup packages configure
+2022-08-29 16:17:41 configure libsystemd0:arm64 245.4-4ubuntu3 <none>
+2022-08-29 16:17:41 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:41 status half-configured libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:41 status installed libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:17:42 startup packages configure
+2022-08-29 16:17:42 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:42 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:42 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:50 startup archives unpack
+2022-08-29 16:17:50 upgrade libtasn1-6:arm64 4.16.0-2 4.16.0-2
+2022-08-29 16:17:50 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:50 status half-configured libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:50 status unpacked libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:50 status half-installed libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:50 status unpacked libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:51 startup packages configure
+2022-08-29 16:17:51 configure libtasn1-6:arm64 4.16.0-2 <none>
+2022-08-29 16:17:51 status unpacked libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:51 status half-configured libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:51 status installed libtasn1-6:arm64 4.16.0-2
+2022-08-29 16:17:52 startup packages configure
+2022-08-29 16:17:52 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:17:52 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:17:52 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:00 startup archives unpack
+2022-08-29 16:18:00 upgrade libtinfo6:arm64 6.2-0ubuntu2 6.2-0ubuntu2
+2022-08-29 16:18:00 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:00 status half-configured libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:00 status unpacked libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:00 status half-installed libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:00 status unpacked libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:01 startup packages configure
+2022-08-29 16:18:01 configure libtinfo6:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:18:01 status unpacked libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:01 status half-configured libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:01 status installed libtinfo6:arm64 6.2-0ubuntu2
+2022-08-29 16:18:02 startup packages configure
+2022-08-29 16:18:02 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:18:02 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:02 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:10 startup archives unpack
+2022-08-29 16:18:10 upgrade libudev1:arm64 245.4-4ubuntu3 245.4-4ubuntu3
+2022-08-29 16:18:10 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:10 status half-configured libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:10 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:10 status half-installed libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:10 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:11 startup packages configure
+2022-08-29 16:18:11 configure libudev1:arm64 245.4-4ubuntu3 <none>
+2022-08-29 16:18:11 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:11 status half-configured libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:11 status installed libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:18:12 startup packages configure
+2022-08-29 16:18:12 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:18:12 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:12 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:21 startup archives unpack
+2022-08-29 16:18:21 upgrade libunistring2:arm64 0.9.10-2 0.9.10-2
+2022-08-29 16:18:21 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:21 status half-configured libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 status unpacked libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 status half-installed libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 status unpacked libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 startup packages configure
+2022-08-29 16:18:21 configure libunistring2:arm64 0.9.10-2 <none>
+2022-08-29 16:18:21 status unpacked libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 status half-configured libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:21 status installed libunistring2:arm64 0.9.10-2
+2022-08-29 16:18:22 startup packages configure
+2022-08-29 16:18:22 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:18:22 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:22 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:31 startup archives unpack
+2022-08-29 16:18:31 upgrade libuuid1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:31 status half-configured libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status half-installed libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 startup packages configure
+2022-08-29 16:18:31 configure libuuid1:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:18:31 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status half-configured libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:31 status installed libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:18:32 startup packages configure
+2022-08-29 16:18:32 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:18:32 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:32 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:41 startup archives unpack
+2022-08-29 16:18:41 upgrade libzstd1:arm64 1.4.4+dfsg-3 1.4.4+dfsg-3
+2022-08-29 16:18:41 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:41 status half-configured libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:41 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:41 status half-installed libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:41 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:42 startup packages configure
+2022-08-29 16:18:42 configure libzstd1:arm64 1.4.4+dfsg-3 <none>
+2022-08-29 16:18:42 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:42 status half-configured libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:42 status installed libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:18:42 startup packages configure
+2022-08-29 16:18:42 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:18:42 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:42 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:18:51 startup archives unpack
+2022-08-29 16:18:51 upgrade login:arm64 1:4.8.1-1ubuntu5 1:4.8.1-1ubuntu5
+2022-08-29 16:18:51 status half-configured login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:51 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:51 status half-installed login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:51 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:52 startup packages configure
+2022-08-29 16:18:52 configure login:arm64 1:4.8.1-1ubuntu5 <none>
+2022-08-29 16:18:52 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:52 status half-configured login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:52 status installed login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:18:53 startup packages configure
+2022-08-29 16:19:01 startup archives unpack
+2022-08-29 16:19:01 upgrade logsave:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1
+2022-08-29 16:19:01 status half-configured logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:01 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:01 status half-installed logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:01 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:02 startup packages configure
+2022-08-29 16:19:02 configure logsave:arm64 1.45.5-2ubuntu1 <none>
+2022-08-29 16:19:02 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:02 status half-configured logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:02 status installed logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:19:10 startup archives unpack
+2022-08-29 16:19:10 upgrade lsb-base:all 11.1.0ubuntu2 11.1.0ubuntu2
+2022-08-29 16:19:10 status half-configured lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:10 status unpacked lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:10 status half-installed lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:10 status unpacked lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:11 startup packages configure
+2022-08-29 16:19:11 configure lsb-base:all 11.1.0ubuntu2 <none>
+2022-08-29 16:19:11 status unpacked lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:11 status half-configured lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:11 status installed lsb-base:all 11.1.0ubuntu2
+2022-08-29 16:19:12 startup packages configure
+2022-08-29 16:19:20 startup archives unpack
+2022-08-29 16:19:20 upgrade mawk:arm64 1.3.4.20200120-2 1.3.4.20200120-2
+2022-08-29 16:19:20 status half-configured mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:20 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:20 status half-installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:20 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:21 startup packages configure
+2022-08-29 16:19:21 configure mawk:arm64 1.3.4.20200120-2 <none>
+2022-08-29 16:19:21 status unpacked mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:21 status half-configured mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:21 status installed mawk:arm64 1.3.4.20200120-2
+2022-08-29 16:19:29 startup archives unpack
+2022-08-29 16:19:29 upgrade mount:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:19:29 status half-configured mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:29 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:29 status half-installed mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:29 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:30 startup packages configure
+2022-08-29 16:19:30 configure mount:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:19:30 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:30 status half-configured mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:30 status installed mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:19:38 startup archives unpack
+2022-08-29 16:19:38 upgrade ncurses-base:all 6.2-0ubuntu2 6.2-0ubuntu2
+2022-08-29 16:19:38 status half-configured ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:38 status unpacked ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:38 status half-installed ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:38 status unpacked ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:39 startup packages configure
+2022-08-29 16:19:39 configure ncurses-base:all 6.2-0ubuntu2 <none>
+2022-08-29 16:19:39 status unpacked ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:39 status half-configured ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:39 status installed ncurses-base:all 6.2-0ubuntu2
+2022-08-29 16:19:40 startup packages configure
+2022-08-29 16:19:49 startup archives unpack
+2022-08-29 16:19:49 upgrade ncurses-bin:arm64 6.2-0ubuntu2 6.2-0ubuntu2
+2022-08-29 16:19:49 status half-configured ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 status unpacked ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 status half-installed ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 status unpacked ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 startup packages configure
+2022-08-29 16:19:49 configure ncurses-bin:arm64 6.2-0ubuntu2 <none>
+2022-08-29 16:19:49 status unpacked ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 status half-configured ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:49 status installed ncurses-bin:arm64 6.2-0ubuntu2
+2022-08-29 16:19:50 startup packages configure
+2022-08-29 16:19:59 startup archives unpack
+2022-08-29 16:19:59 upgrade passwd:arm64 1:4.8.1-1ubuntu5 1:4.8.1-1ubuntu5
+2022-08-29 16:19:59 status half-configured passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:19:59 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:19:59 status half-installed passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:19:59 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:20:00 startup packages configure
+2022-08-29 16:20:00 configure passwd:arm64 1:4.8.1-1ubuntu5 <none>
+2022-08-29 16:20:00 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:20:00 status half-configured passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:20:00 status installed passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:20:01 startup packages configure
+2022-08-29 16:20:10 startup archives unpack
+2022-08-29 16:20:10 upgrade perl-base:arm64 5.30.0-9build1 5.30.0-9build1
+2022-08-29 16:20:10 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:10 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:10 status half-installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:11 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:12 startup packages configure
+2022-08-29 16:20:12 configure perl-base:arm64 5.30.0-9build1 <none>
+2022-08-29 16:20:12 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:12 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:12 status installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:20:13 startup packages configure
+2022-08-29 16:20:21 startup archives unpack
+2022-08-29 16:20:21 upgrade procps:arm64 2:3.3.16-1ubuntu2 2:3.3.16-1ubuntu2
+2022-08-29 16:20:21 status half-configured procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:21 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:21 status half-installed procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:21 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:22 startup packages configure
+2022-08-29 16:20:22 configure procps:arm64 2:3.3.16-1ubuntu2 <none>
+2022-08-29 16:20:22 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:22 status half-configured procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:22 status installed procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:20:31 startup archives unpack
+2022-08-29 16:20:31 upgrade sed:arm64 4.7-1 4.7-1
+2022-08-29 16:20:31 status half-configured sed:arm64 4.7-1
+2022-08-29 16:20:31 status unpacked sed:arm64 4.7-1
+2022-08-29 16:20:31 status half-installed sed:arm64 4.7-1
+2022-08-29 16:20:31 status unpacked sed:arm64 4.7-1
+2022-08-29 16:20:32 startup packages configure
+2022-08-29 16:20:32 configure sed:arm64 4.7-1 <none>
+2022-08-29 16:20:32 status unpacked sed:arm64 4.7-1
+2022-08-29 16:20:32 status half-configured sed:arm64 4.7-1
+2022-08-29 16:20:32 status installed sed:arm64 4.7-1
+2022-08-29 16:20:32 startup packages configure
+2022-08-29 16:20:41 startup archives unpack
+2022-08-29 16:20:41 upgrade sensible-utils:all 0.0.12+nmu1 0.0.12+nmu1
+2022-08-29 16:20:41 status half-configured sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 status unpacked sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 status half-installed sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 status unpacked sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 startup packages configure
+2022-08-29 16:20:41 configure sensible-utils:all 0.0.12+nmu1 <none>
+2022-08-29 16:20:41 status unpacked sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 status half-configured sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:41 status installed sensible-utils:all 0.0.12+nmu1
+2022-08-29 16:20:50 startup archives unpack
+2022-08-29 16:20:50 upgrade sysvinit-utils:arm64 2.96-2.1ubuntu1 2.96-2.1ubuntu1
+2022-08-29 16:20:50 status half-configured sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:50 status unpacked sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:50 status half-installed sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:50 status unpacked sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:51 startup packages configure
+2022-08-29 16:20:51 configure sysvinit-utils:arm64 2.96-2.1ubuntu1 <none>
+2022-08-29 16:20:51 status unpacked sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:51 status half-configured sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:51 status installed sysvinit-utils:arm64 2.96-2.1ubuntu1
+2022-08-29 16:20:51 startup packages configure
+2022-08-29 16:21:00 startup archives unpack
+2022-08-29 16:21:00 upgrade tar:arm64 1.30+dfsg-7 1.30+dfsg-7
+2022-08-29 16:21:00 status half-configured tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:00 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:00 status half-installed tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:00 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:01 startup packages configure
+2022-08-29 16:21:01 configure tar:arm64 1.30+dfsg-7 <none>
+2022-08-29 16:21:01 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:01 status half-configured tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:01 status installed tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:02 startup packages configure
+2022-08-29 16:21:10 startup archives unpack
+2022-08-29 16:21:10 upgrade ubuntu-keyring:all 2020.02.11.2 2020.02.11.2
+2022-08-29 16:21:10 status half-configured ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:10 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:10 status half-installed ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:10 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:11 startup packages configure
+2022-08-29 16:21:11 configure ubuntu-keyring:all 2020.02.11.2 <none>
+2022-08-29 16:21:11 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:11 status half-configured ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:11 status installed ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:11 startup packages configure
+2022-08-29 16:21:21 startup archives unpack
+2022-08-29 16:21:21 upgrade util-linux:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9
+2022-08-29 16:21:21 status half-configured util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:21 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:21 status half-installed util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:21 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:22 startup packages configure
+2022-08-29 16:21:22 configure util-linux:arm64 2.34-0.1ubuntu9 <none>
+2022-08-29 16:21:22 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:22 status half-configured util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:23 status installed util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:24 startup packages configure
+2022-08-29 16:21:32 startup archives unpack
+2022-08-29 16:21:32 upgrade zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:32 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:32 status half-configured zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:32 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:32 status half-installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:32 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:33 startup packages configure
+2022-08-29 16:21:33 configure zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1 <none>
+2022-08-29 16:21:33 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:33 status half-configured zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:33 status installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:34 startup packages configure
+2022-08-29 16:21:34 trigproc libc-bin:arm64 2.31-0ubuntu9 <none>
+2022-08-29 16:21:34 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:34 status installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:42 startup archives unpack
+2022-08-29 16:21:42 upgrade ubuntu-keyring:all 2020.02.11.2 2020.02.11.4
+2022-08-29 16:21:42 status half-configured ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:42 status unpacked ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:42 status half-installed ubuntu-keyring:all 2020.02.11.2
+2022-08-29 16:21:42 status unpacked ubuntu-keyring:all 2020.02.11.4
+2022-08-29 16:21:42 startup packages configure
+2022-08-29 16:21:42 configure ubuntu-keyring:all 2020.02.11.4 <none>
+2022-08-29 16:21:42 status unpacked ubuntu-keyring:all 2020.02.11.4
+2022-08-29 16:21:42 status half-configured ubuntu-keyring:all 2020.02.11.4
+2022-08-29 16:21:42 status installed ubuntu-keyring:all 2020.02.11.4
+2022-08-29 16:21:42 startup packages configure
+2022-08-29 16:21:46 startup archives unpack
+2022-08-29 16:21:46 upgrade gcc-10-base:arm64 10-20200411-0ubuntu1 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status half-configured gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status unpacked gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status half-installed gcc-10-base:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status unpacked gcc-10-base:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 startup packages configure
+2022-08-29 16:21:46 configure gcc-10-base:arm64 10.3.0-1ubuntu1~20.04 <none>
+2022-08-29 16:21:46 status unpacked gcc-10-base:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status half-configured gcc-10-base:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status installed gcc-10-base:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 startup archives unpack
+2022-08-29 16:21:46 upgrade libgcc-s1:arm64 10-20200411-0ubuntu1 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status triggers-pending libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:46 status half-configured libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status unpacked libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status half-installed libgcc-s1:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:46 status unpacked libgcc-s1:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 startup packages configure
+2022-08-29 16:21:46 configure libgcc-s1:arm64 10.3.0-1ubuntu1~20.04 <none>
+2022-08-29 16:21:46 status unpacked libgcc-s1:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status half-configured libgcc-s1:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status installed libgcc-s1:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 startup archives unpack
+2022-08-29 16:21:46 upgrade libstdc++6:arm64 10-20200411-0ubuntu1 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:46 status half-configured libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:47 status unpacked libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:47 status half-installed libstdc++6:arm64 10-20200411-0ubuntu1
+2022-08-29 16:21:47 status unpacked libstdc++6:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:47 startup packages configure
+2022-08-29 16:21:47 configure libstdc++6:arm64 10.3.0-1ubuntu1~20.04 <none>
+2022-08-29 16:21:47 status unpacked libstdc++6:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:47 status half-configured libstdc++6:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:47 status installed libstdc++6:arm64 10.3.0-1ubuntu1~20.04
+2022-08-29 16:21:47 startup archives unpack
+2022-08-29 16:21:47 upgrade libc6:arm64 2.31-0ubuntu9 2.31-0ubuntu9.9
+2022-08-29 16:21:47 status half-configured libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:21:47 status unpacked libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:21:47 status half-installed libc6:arm64 2.31-0ubuntu9
+2022-08-29 16:21:47 status unpacked libc6:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:47 startup packages configure
+2022-08-29 16:21:47 configure libc6:arm64 2.31-0ubuntu9.9 <none>
+2022-08-29 16:21:47 status unpacked libc6:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:47 status half-configured libc6:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:47 status installed libc6:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:47 startup archives unpack
+2022-08-29 16:21:47 upgrade base-files:arm64 11ubuntu5 11ubuntu5.6
+2022-08-29 16:21:47 status half-configured base-files:arm64 11ubuntu5
+2022-08-29 16:21:48 status unpacked base-files:arm64 11ubuntu5
+2022-08-29 16:21:48 status half-installed base-files:arm64 11ubuntu5
+2022-08-29 16:21:48 status unpacked base-files:arm64 11ubuntu5.6
+2022-08-29 16:21:48 startup packages configure
+2022-08-29 16:21:48 configure base-files:arm64 11ubuntu5.6 <none>
+2022-08-29 16:21:48 status unpacked base-files:arm64 11ubuntu5.6
+2022-08-29 16:21:48 status half-configured base-files:arm64 11ubuntu5.6
+2022-08-29 16:21:48 status installed base-files:arm64 11ubuntu5.6
+2022-08-29 16:21:48 startup archives unpack
+2022-08-29 16:21:48 upgrade bash:arm64 5.0-6ubuntu1 5.0-6ubuntu1.2
+2022-08-29 16:21:48 status half-configured bash:arm64 5.0-6ubuntu1
+2022-08-29 16:21:48 status unpacked bash:arm64 5.0-6ubuntu1
+2022-08-29 16:21:48 status half-installed bash:arm64 5.0-6ubuntu1
+2022-08-29 16:21:48 status unpacked bash:arm64 5.0-6ubuntu1.2
+2022-08-29 16:21:48 startup packages configure
+2022-08-29 16:21:48 configure bash:arm64 5.0-6ubuntu1.2 <none>
+2022-08-29 16:21:48 status unpacked bash:arm64 5.0-6ubuntu1.2
+2022-08-29 16:21:48 status half-configured bash:arm64 5.0-6ubuntu1.2
+2022-08-29 16:21:48 status installed bash:arm64 5.0-6ubuntu1.2
+2022-08-29 16:21:48 startup archives unpack
+2022-08-29 16:21:48 upgrade bsdutils:arm64 1:2.34-0.1ubuntu9 1:2.34-0.1ubuntu9.3
+2022-08-29 16:21:48 status half-configured bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:21:48 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:21:48 status half-installed bsdutils:arm64 1:2.34-0.1ubuntu9
+2022-08-29 16:21:48 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9.3
+2022-08-29 16:21:48 startup packages configure
+2022-08-29 16:21:48 configure bsdutils:arm64 1:2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:48 status unpacked bsdutils:arm64 1:2.34-0.1ubuntu9.3
+2022-08-29 16:21:48 status half-configured bsdutils:arm64 1:2.34-0.1ubuntu9.3
+2022-08-29 16:21:48 status installed bsdutils:arm64 1:2.34-0.1ubuntu9.3
+2022-08-29 16:21:48 startup archives unpack
+2022-08-29 16:21:48 upgrade tar:arm64 1.30+dfsg-7 1.30+dfsg-7ubuntu0.20.04.2
+2022-08-29 16:21:48 status half-configured tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:48 status unpacked tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:48 status half-installed tar:arm64 1.30+dfsg-7
+2022-08-29 16:21:48 status unpacked tar:arm64 1.30+dfsg-7ubuntu0.20.04.2
+2022-08-29 16:21:48 startup packages configure
+2022-08-29 16:21:48 configure tar:arm64 1.30+dfsg-7ubuntu0.20.04.2 <none>
+2022-08-29 16:21:48 status unpacked tar:arm64 1.30+dfsg-7ubuntu0.20.04.2
+2022-08-29 16:21:48 status half-configured tar:arm64 1.30+dfsg-7ubuntu0.20.04.2
+2022-08-29 16:21:48 status installed tar:arm64 1.30+dfsg-7ubuntu0.20.04.2
+2022-08-29 16:21:48 startup archives unpack
+2022-08-29 16:21:48 upgrade dpkg:arm64 1.19.7ubuntu3 1.19.7ubuntu3.2
+2022-08-29 16:21:48 status half-configured dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:21:48 status unpacked dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:21:48 status half-installed dpkg:arm64 1.19.7ubuntu3
+2022-08-29 16:21:48 status unpacked dpkg:arm64 1.19.7ubuntu3.2
+2022-08-29 16:21:48 startup packages configure
+2022-08-29 16:21:48 configure dpkg:arm64 1.19.7ubuntu3.2 <none>
+2022-08-29 16:21:48 status unpacked dpkg:arm64 1.19.7ubuntu3.2
+2022-08-29 16:21:48 status half-configured dpkg:arm64 1.19.7ubuntu3.2
+2022-08-29 16:21:48 status installed dpkg:arm64 1.19.7ubuntu3.2
+2022-08-29 16:21:48 startup archives unpack
+2022-08-29 16:21:49 upgrade gzip:arm64 1.10-0ubuntu4 1.10-0ubuntu4.1
+2022-08-29 16:21:49 status half-configured gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:21:49 status unpacked gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:21:49 status half-installed gzip:arm64 1.10-0ubuntu4
+2022-08-29 16:21:49 status unpacked gzip:arm64 1.10-0ubuntu4.1
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure gzip:arm64 1.10-0ubuntu4.1 <none>
+2022-08-29 16:21:49 status unpacked gzip:arm64 1.10-0ubuntu4.1
+2022-08-29 16:21:49 status half-configured gzip:arm64 1.10-0ubuntu4.1
+2022-08-29 16:21:49 status installed gzip:arm64 1.10-0ubuntu4.1
+2022-08-29 16:21:49 startup archives unpack
+2022-08-29 16:21:49 upgrade login:arm64 1:4.8.1-1ubuntu5 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:49 status half-configured login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:49 status unpacked login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:49 status half-installed login:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:49 status unpacked login:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure login:arm64 1:4.8.1-1ubuntu5.20.04.2 <none>
+2022-08-29 16:21:49 status unpacked login:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:49 status half-configured login:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:49 status installed login:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:49 startup archives unpack
+2022-08-29 16:21:49 upgrade perl-base:arm64 5.30.0-9build1 5.30.0-9ubuntu0.2
+2022-08-29 16:21:49 status half-configured perl-base:arm64 5.30.0-9build1
+2022-08-29 16:21:49 status unpacked perl-base:arm64 5.30.0-9build1
+2022-08-29 16:21:49 status half-installed perl-base:arm64 5.30.0-9build1
+2022-08-29 16:21:49 status unpacked perl-base:arm64 5.30.0-9ubuntu0.2
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure perl-base:arm64 5.30.0-9ubuntu0.2 <none>
+2022-08-29 16:21:49 status unpacked perl-base:arm64 5.30.0-9ubuntu0.2
+2022-08-29 16:21:49 status half-configured perl-base:arm64 5.30.0-9ubuntu0.2
+2022-08-29 16:21:49 status installed perl-base:arm64 5.30.0-9ubuntu0.2
+2022-08-29 16:21:49 startup archives unpack
+2022-08-29 16:21:49 upgrade libblkid1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status half-installed libblkid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libblkid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure libblkid1:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:49 status unpacked libblkid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libblkid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status installed libblkid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 startup archives unpack
+2022-08-29 16:21:49 upgrade libuuid1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status half-installed libuuid1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libuuid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure libuuid1:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:49 status unpacked libuuid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libuuid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status installed libuuid1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 startup archives unpack
+2022-08-29 16:21:49 upgrade libfdisk1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status half-installed libfdisk1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 upgrade libmount1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status half-installed libmount1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:49 status unpacked libmount1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 startup packages configure
+2022-08-29 16:21:49 configure libmount1:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:49 status unpacked libmount1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:49 status half-configured libmount1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status installed libmount1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 startup archives unpack
+2022-08-29 16:21:50 upgrade libsmartcols1:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status half-configured libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status half-installed libsmartcols1:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 startup packages configure
+2022-08-29 16:21:50 configure libsmartcols1:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:50 status unpacked libsmartcols1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status half-configured libsmartcols1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status installed libsmartcols1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 startup archives unpack
+2022-08-29 16:21:50 upgrade fdisk:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status half-configured fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status half-installed fdisk:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked fdisk:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 upgrade util-linux:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status half-configured util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status half-installed util-linux:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:50 status unpacked util-linux:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 startup packages configure
+2022-08-29 16:21:50 configure util-linux:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:50 status unpacked util-linux:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:50 status half-configured util-linux:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:51 status installed util-linux:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libc-bin:arm64 2.31-0ubuntu9 2.31-0ubuntu9.9
+2022-08-29 16:21:51 status half-configured libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:51 status unpacked libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:51 status half-installed libc-bin:arm64 2.31-0ubuntu9
+2022-08-29 16:21:51 status unpacked libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure libc-bin:arm64 2.31-0ubuntu9.9 <none>
+2022-08-29 16:21:51 status unpacked libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:51 status half-configured libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:51 status installed libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libgcrypt20:arm64 1.8.5-5ubuntu1 1.8.5-5ubuntu1.1
+2022-08-29 16:21:51 status triggers-pending libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:51 status half-configured libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:21:51 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:21:51 status half-installed libgcrypt20:arm64 1.8.5-5ubuntu1
+2022-08-29 16:21:51 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1.1
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure libgcrypt20:arm64 1.8.5-5ubuntu1.1 <none>
+2022-08-29 16:21:51 status unpacked libgcrypt20:arm64 1.8.5-5ubuntu1.1
+2022-08-29 16:21:51 status half-configured libgcrypt20:arm64 1.8.5-5ubuntu1.1
+2022-08-29 16:21:51 status installed libgcrypt20:arm64 1.8.5-5ubuntu1.1
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade liblz4-1:arm64 1.9.2-2 1.9.2-2ubuntu0.20.04.1
+2022-08-29 16:21:51 status half-configured liblz4-1:arm64 1.9.2-2
+2022-08-29 16:21:51 status unpacked liblz4-1:arm64 1.9.2-2
+2022-08-29 16:21:51 status half-installed liblz4-1:arm64 1.9.2-2
+2022-08-29 16:21:51 status unpacked liblz4-1:arm64 1.9.2-2ubuntu0.20.04.1
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure liblz4-1:arm64 1.9.2-2ubuntu0.20.04.1 <none>
+2022-08-29 16:21:51 status unpacked liblz4-1:arm64 1.9.2-2ubuntu0.20.04.1
+2022-08-29 16:21:51 status half-configured liblz4-1:arm64 1.9.2-2ubuntu0.20.04.1
+2022-08-29 16:21:51 status installed liblz4-1:arm64 1.9.2-2ubuntu0.20.04.1
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade liblzma5:arm64 5.2.4-1 5.2.4-1ubuntu1.1
+2022-08-29 16:21:51 status half-configured liblzma5:arm64 5.2.4-1
+2022-08-29 16:21:51 status unpacked liblzma5:arm64 5.2.4-1
+2022-08-29 16:21:51 status half-installed liblzma5:arm64 5.2.4-1
+2022-08-29 16:21:51 status unpacked liblzma5:arm64 5.2.4-1ubuntu1.1
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure liblzma5:arm64 5.2.4-1ubuntu1.1 <none>
+2022-08-29 16:21:51 status unpacked liblzma5:arm64 5.2.4-1ubuntu1.1
+2022-08-29 16:21:51 status half-configured liblzma5:arm64 5.2.4-1ubuntu1.1
+2022-08-29 16:21:51 status installed liblzma5:arm64 5.2.4-1ubuntu1.1
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libsystemd0:arm64 245.4-4ubuntu3 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status half-configured libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status unpacked libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status half-installed libsystemd0:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status unpacked libsystemd0:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure libsystemd0:arm64 245.4-4ubuntu3.17 <none>
+2022-08-29 16:21:51 status unpacked libsystemd0:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status half-configured libsystemd0:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status installed libsystemd0:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libudev1:arm64 245.4-4ubuntu3 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status half-configured libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status unpacked libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status half-installed libudev1:arm64 245.4-4ubuntu3
+2022-08-29 16:21:51 status unpacked libudev1:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure libudev1:arm64 245.4-4ubuntu3.17 <none>
+2022-08-29 16:21:51 status unpacked libudev1:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status half-configured libudev1:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 status installed libudev1:arm64 245.4-4ubuntu3.17
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libzstd1:arm64 1.4.4+dfsg-3 1.4.4+dfsg-3ubuntu0.1
+2022-08-29 16:21:51 status half-configured libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:21:51 status unpacked libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:21:51 status half-installed libzstd1:arm64 1.4.4+dfsg-3
+2022-08-29 16:21:51 status unpacked libzstd1:arm64 1.4.4+dfsg-3ubuntu0.1
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure libzstd1:arm64 1.4.4+dfsg-3ubuntu0.1 <none>
+2022-08-29 16:21:51 status unpacked libzstd1:arm64 1.4.4+dfsg-3ubuntu0.1
+2022-08-29 16:21:51 status half-configured libzstd1:arm64 1.4.4+dfsg-3ubuntu0.1
+2022-08-29 16:21:51 status installed libzstd1:arm64 1.4.4+dfsg-3ubuntu0.1
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1 1:1.2.11.dfsg-2ubuntu1.3
+2022-08-29 16:21:51 status half-configured zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:51 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:51 status half-installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1
+2022-08-29 16:21:51 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1.3
+2022-08-29 16:21:51 startup packages configure
+2022-08-29 16:21:51 configure zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1.3 <none>
+2022-08-29 16:21:51 status unpacked zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1.3
+2022-08-29 16:21:51 status half-configured zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1.3
+2022-08-29 16:21:51 status installed zlib1g:arm64 1:1.2.11.dfsg-2ubuntu1.3
+2022-08-29 16:21:51 startup archives unpack
+2022-08-29 16:21:51 upgrade libapt-pkg6.0:arm64 2.0.2 2.0.9
+2022-08-29 16:21:51 status half-configured libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:21:51 status unpacked libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:21:51 status half-installed libapt-pkg6.0:arm64 2.0.2
+2022-08-29 16:21:52 status unpacked libapt-pkg6.0:arm64 2.0.9
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libapt-pkg6.0:arm64 2.0.9 <none>
+2022-08-29 16:21:52 status unpacked libapt-pkg6.0:arm64 2.0.9
+2022-08-29 16:21:52 status half-configured libapt-pkg6.0:arm64 2.0.9
+2022-08-29 16:21:52 status installed libapt-pkg6.0:arm64 2.0.9
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade gpgv:arm64 2.2.19-3ubuntu2 2.2.19-3ubuntu2.2
+2022-08-29 16:21:52 status half-configured gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:21:52 status unpacked gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:21:52 status half-installed gpgv:arm64 2.2.19-3ubuntu2
+2022-08-29 16:21:52 status unpacked gpgv:arm64 2.2.19-3ubuntu2.2
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure gpgv:arm64 2.2.19-3ubuntu2.2 <none>
+2022-08-29 16:21:52 status unpacked gpgv:arm64 2.2.19-3ubuntu2.2
+2022-08-29 16:21:52 status half-configured gpgv:arm64 2.2.19-3ubuntu2.2
+2022-08-29 16:21:52 status installed gpgv:arm64 2.2.19-3ubuntu2.2
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade libnettle7:arm64 3.5.1+really3.5.1-2 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status half-configured libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status half-installed libnettle7:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libnettle7:arm64 3.5.1+really3.5.1-2ubuntu0.2 <none>
+2022-08-29 16:21:52 status unpacked libnettle7:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status half-configured libnettle7:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status installed libnettle7:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade libhogweed5:arm64 3.5.1+really3.5.1-2 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status half-configured libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status half-installed libhogweed5:arm64 3.5.1+really3.5.1-2
+2022-08-29 16:21:52 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libhogweed5:arm64 3.5.1+really3.5.1-2ubuntu0.2 <none>
+2022-08-29 16:21:52 status unpacked libhogweed5:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status half-configured libhogweed5:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 status installed libhogweed5:arm64 3.5.1+really3.5.1-2ubuntu0.2
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade libp11-kit0:arm64 0.23.20-1build1 0.23.20-1ubuntu0.1
+2022-08-29 16:21:52 status half-configured libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:21:52 status unpacked libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:21:52 status half-installed libp11-kit0:arm64 0.23.20-1build1
+2022-08-29 16:21:52 status unpacked libp11-kit0:arm64 0.23.20-1ubuntu0.1
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libp11-kit0:arm64 0.23.20-1ubuntu0.1 <none>
+2022-08-29 16:21:52 status unpacked libp11-kit0:arm64 0.23.20-1ubuntu0.1
+2022-08-29 16:21:52 status half-configured libp11-kit0:arm64 0.23.20-1ubuntu0.1
+2022-08-29 16:21:52 status installed libp11-kit0:arm64 0.23.20-1ubuntu0.1
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade libgnutls30:arm64 3.6.13-2ubuntu1 3.6.13-2ubuntu1.7
+2022-08-29 16:21:52 status half-configured libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:21:52 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:21:52 status half-installed libgnutls30:arm64 3.6.13-2ubuntu1
+2022-08-29 16:21:52 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1.7
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libgnutls30:arm64 3.6.13-2ubuntu1.7 <none>
+2022-08-29 16:21:52 status unpacked libgnutls30:arm64 3.6.13-2ubuntu1.7
+2022-08-29 16:21:52 status half-configured libgnutls30:arm64 3.6.13-2ubuntu1.7
+2022-08-29 16:21:52 status installed libgnutls30:arm64 3.6.13-2ubuntu1.7
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade libseccomp2:arm64 2.4.3-1ubuntu1 2.5.1-1ubuntu1~20.04.2
+2022-08-29 16:21:52 status half-configured libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:21:52 status unpacked libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:21:52 status half-installed libseccomp2:arm64 2.4.3-1ubuntu1
+2022-08-29 16:21:52 status unpacked libseccomp2:arm64 2.5.1-1ubuntu1~20.04.2
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure libseccomp2:arm64 2.5.1-1ubuntu1~20.04.2 <none>
+2022-08-29 16:21:52 status unpacked libseccomp2:arm64 2.5.1-1ubuntu1~20.04.2
+2022-08-29 16:21:52 status half-configured libseccomp2:arm64 2.5.1-1ubuntu1~20.04.2
+2022-08-29 16:21:52 status installed libseccomp2:arm64 2.5.1-1ubuntu1~20.04.2
+2022-08-29 16:21:52 startup archives unpack
+2022-08-29 16:21:52 upgrade apt:arm64 2.0.2 2.0.9
+2022-08-29 16:21:52 status half-configured apt:arm64 2.0.2
+2022-08-29 16:21:52 status unpacked apt:arm64 2.0.2
+2022-08-29 16:21:52 status half-installed apt:arm64 2.0.2
+2022-08-29 16:21:52 status unpacked apt:arm64 2.0.9
+2022-08-29 16:21:52 startup packages configure
+2022-08-29 16:21:52 configure apt:arm64 2.0.9 <none>
+2022-08-29 16:21:52 status unpacked apt:arm64 2.0.9
+2022-08-29 16:21:52 status half-configured apt:arm64 2.0.9
+2022-08-29 16:21:53 status installed apt:arm64 2.0.9
+2022-08-29 16:21:53 startup archives unpack
+2022-08-29 16:21:53 upgrade libpam0g:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status half-configured libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status unpacked libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status half-installed libpam0g:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status unpacked libpam0g:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 startup packages configure
+2022-08-29 16:21:53 configure libpam0g:arm64 1.3.1-5ubuntu4.3 <none>
+2022-08-29 16:21:53 status unpacked libpam0g:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status half-configured libpam0g:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status installed libpam0g:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 startup archives unpack
+2022-08-29 16:21:53 upgrade libpam-modules-bin:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status half-configured libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status half-installed libpam-modules-bin:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 startup packages configure
+2022-08-29 16:21:53 configure libpam-modules-bin:arm64 1.3.1-5ubuntu4.3 <none>
+2022-08-29 16:21:53 status unpacked libpam-modules-bin:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status half-configured libpam-modules-bin:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status installed libpam-modules-bin:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 startup archives unpack
+2022-08-29 16:21:53 upgrade libpam-modules:arm64 1.3.1-5ubuntu4 1.3.1-5ubuntu4.3
+2022-08-29 16:21:53 status half-configured libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:53 status half-installed libpam-modules:arm64 1.3.1-5ubuntu4
+2022-08-29 16:21:54 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 startup packages configure
+2022-08-29 16:21:54 configure libpam-modules:arm64 1.3.1-5ubuntu4.3 <none>
+2022-08-29 16:21:54 status unpacked libpam-modules:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 status half-configured libpam-modules:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 status installed libpam-modules:arm64 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 startup archives unpack
+2022-08-29 16:21:54 upgrade logsave:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 status half-configured logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status half-installed logsave:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked logsave:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 upgrade libext2fs2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 status half-configured libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status half-installed libext2fs2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 startup packages configure
+2022-08-29 16:21:54 configure libext2fs2:arm64 1.45.5-2ubuntu1.1 <none>
+2022-08-29 16:21:54 status unpacked libext2fs2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 status half-configured libext2fs2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 status installed libext2fs2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 startup archives unpack
+2022-08-29 16:21:54 upgrade e2fsprogs:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 status half-configured e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status half-installed e2fsprogs:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:54 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:54 upgrade mount:arm64 2.34-0.1ubuntu9 2.34-0.1ubuntu9.3
+2022-08-29 16:21:54 status half-configured mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:54 status unpacked mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:54 status half-installed mount:arm64 2.34-0.1ubuntu9
+2022-08-29 16:21:54 status unpacked mount:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:54 upgrade libpam-runtime:all 1.3.1-5ubuntu4 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 status half-configured libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:21:54 status unpacked libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:21:54 status half-installed libpam-runtime:all 1.3.1-5ubuntu4
+2022-08-29 16:21:54 status unpacked libpam-runtime:all 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 startup packages configure
+2022-08-29 16:21:54 configure libpam-runtime:all 1.3.1-5ubuntu4.3 <none>
+2022-08-29 16:21:54 status unpacked libpam-runtime:all 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 status half-configured libpam-runtime:all 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 status installed libpam-runtime:all 1.3.1-5ubuntu4.3
+2022-08-29 16:21:54 startup archives unpack
+2022-08-29 16:21:54 upgrade libpcre3:arm64 2:8.39-12build1 2:8.39-12ubuntu0.1
+2022-08-29 16:21:54 status half-configured libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:21:54 status unpacked libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:21:54 status half-installed libpcre3:arm64 2:8.39-12build1
+2022-08-29 16:21:54 status unpacked libpcre3:arm64 2:8.39-12ubuntu0.1
+2022-08-29 16:21:54 startup packages configure
+2022-08-29 16:21:54 configure libpcre3:arm64 2:8.39-12ubuntu0.1 <none>
+2022-08-29 16:21:54 status unpacked libpcre3:arm64 2:8.39-12ubuntu0.1
+2022-08-29 16:21:54 status half-configured libpcre3:arm64 2:8.39-12ubuntu0.1
+2022-08-29 16:21:54 status installed libpcre3:arm64 2:8.39-12ubuntu0.1
+2022-08-29 16:21:54 startup archives unpack
+2022-08-29 16:21:54 upgrade libsepol1:arm64 3.0-1 3.0-1ubuntu0.1
+2022-08-29 16:21:54 status half-configured libsepol1:arm64 3.0-1
+2022-08-29 16:21:54 status unpacked libsepol1:arm64 3.0-1
+2022-08-29 16:21:54 status half-installed libsepol1:arm64 3.0-1
+2022-08-29 16:21:54 status unpacked libsepol1:arm64 3.0-1ubuntu0.1
+2022-08-29 16:21:54 startup packages configure
+2022-08-29 16:21:54 configure libsepol1:arm64 3.0-1ubuntu0.1 <none>
+2022-08-29 16:21:54 status unpacked libsepol1:arm64 3.0-1ubuntu0.1
+2022-08-29 16:21:54 status half-configured libsepol1:arm64 3.0-1ubuntu0.1
+2022-08-29 16:21:54 status installed libsepol1:arm64 3.0-1ubuntu0.1
+2022-08-29 16:21:54 startup archives unpack
+2022-08-29 16:21:54 upgrade passwd:arm64 1:4.8.1-1ubuntu5 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:54 status half-configured passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:54 status unpacked passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:54 status half-installed passwd:arm64 1:4.8.1-1ubuntu5
+2022-08-29 16:21:55 status unpacked passwd:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:55 startup packages configure
+2022-08-29 16:21:55 configure passwd:arm64 1:4.8.1-1ubuntu5.20.04.2 <none>
+2022-08-29 16:21:55 status unpacked passwd:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:55 status half-configured passwd:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:55 status installed passwd:arm64 1:4.8.1-1ubuntu5.20.04.2
+2022-08-29 16:21:55 startup archives unpack
+2022-08-29 16:21:55 upgrade libcom-err2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status half-installed libcom-err2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 upgrade libprocps8:arm64 2:3.3.16-1ubuntu2 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 status half-configured libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status half-installed libprocps8:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 upgrade libss2:arm64 1.45.5-2ubuntu1 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status unpacked libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status half-installed libss2:arm64 1.45.5-2ubuntu1
+2022-08-29 16:21:55 status unpacked libss2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 upgrade procps:arm64 2:3.3.16-1ubuntu2 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 status half-configured procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status unpacked procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status half-installed procps:arm64 2:3.3.16-1ubuntu2
+2022-08-29 16:21:55 status unpacked procps:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 startup packages configure
+2022-08-29 16:21:55 configure libcom-err2:arm64 1.45.5-2ubuntu1.1 <none>
+2022-08-29 16:21:55 status unpacked libcom-err2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured libcom-err2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status installed libcom-err2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 configure libss2:arm64 1.45.5-2ubuntu1.1 <none>
+2022-08-29 16:21:55 status unpacked libss2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured libss2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status installed libss2:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 configure logsave:arm64 1.45.5-2ubuntu1.1 <none>
+2022-08-29 16:21:55 status unpacked logsave:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured logsave:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status installed logsave:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 configure libfdisk1:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:55 status unpacked libfdisk1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status half-configured libfdisk1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status installed libfdisk1:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 configure mount:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:55 status unpacked mount:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status half-configured mount:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status installed mount:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 configure libprocps8:arm64 2:3.3.16-1ubuntu2.3 <none>
+2022-08-29 16:21:55 status unpacked libprocps8:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 status half-configured libprocps8:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 status installed libprocps8:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 configure e2fsprogs:arm64 1.45.5-2ubuntu1.1 <none>
+2022-08-29 16:21:55 status unpacked e2fsprogs:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status half-configured e2fsprogs:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 status installed e2fsprogs:arm64 1.45.5-2ubuntu1.1
+2022-08-29 16:21:55 configure fdisk:arm64 2.34-0.1ubuntu9.3 <none>
+2022-08-29 16:21:55 status unpacked fdisk:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status half-configured fdisk:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 status installed fdisk:arm64 2.34-0.1ubuntu9.3
+2022-08-29 16:21:55 configure procps:arm64 2:3.3.16-1ubuntu2.3 <none>
+2022-08-29 16:21:55 status unpacked procps:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:55 status half-configured procps:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:56 status installed procps:arm64 2:3.3.16-1ubuntu2.3
+2022-08-29 16:21:56 trigproc libc-bin:arm64 2.31-0ubuntu9.9 <none>
+2022-08-29 16:21:56 status half-configured libc-bin:arm64 2.31-0ubuntu9.9
+2022-08-29 16:21:56 status installed libc-bin:arm64 2.31-0ubuntu9.9
